@@ -1,0 +1,51 @@
+{
+  "title": "Ibuprofen (Advil, Motrin)",
+  "duration": 161.02,
+  "chapters": [
+    {
+      "id": "title",
+      "title": "What is this drug?",
+      "start": 0.0
+    },
+    {
+      "id": "uses",
+      "title": "What is it used for?",
+      "start": 15.37
+    },
+    {
+      "id": "membrane",
+      "title": "Where does the signal start?",
+      "start": 25.27
+    },
+    {
+      "id": "cox",
+      "title": "What do the COX enzymes do?",
+      "start": 41.2
+    },
+    {
+      "id": "bound",
+      "title": "Where does ibuprofen sit?",
+      "start": 57.69
+    },
+    {
+      "id": "effect",
+      "title": "What changes?",
+      "start": 76.76
+    },
+    {
+      "id": "time",
+      "title": "When does relief start?",
+      "start": 92.18
+    },
+    {
+      "id": "dose",
+      "title": "What dose does the label list?",
+      "start": 105.94
+    },
+    {
+      "id": "limits",
+      "title": "What are the limits?",
+      "start": 136.11
+    }
+  ]
+}

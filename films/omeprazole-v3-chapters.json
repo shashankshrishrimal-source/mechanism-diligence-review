@@ -1,0 +1,46 @@
+{
+  "title": "Omeprazole (Prilosec)",
+  "duration": 221.64999999999992,
+  "chapters": [
+    {
+      "id": "title",
+      "title": "What is this drug?",
+      "start": 0.0
+    },
+    {
+      "id": "acid",
+      "title": "What is excess stomach acid?",
+      "start": 18.29
+    },
+    {
+      "id": "pump",
+      "title": "What makes the acid?",
+      "start": 42.62
+    },
+    {
+      "id": "block",
+      "title": "What does the drug block?",
+      "start": 61.57
+    },
+    {
+      "id": "effect",
+      "title": "What happens when the pump is blocked?",
+      "start": 91.04
+    },
+    {
+      "id": "leave",
+      "title": "How does it leave?",
+      "start": 125.6
+    },
+    {
+      "id": "dose",
+      "title": "What dose does the label list?",
+      "start": 151.04
+    },
+    {
+      "id": "limits",
+      "title": "What are the limits?",
+      "start": 183.83
+    }
+  ]
+}

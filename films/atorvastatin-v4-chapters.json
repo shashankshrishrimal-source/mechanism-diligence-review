@@ -1,0 +1,56 @@
+{
+  "title": "Atorvastatin (Lipitor)",
+  "duration": 190.95,
+  "chapters": [
+    {
+      "id": "title",
+      "title": "What is this drug?",
+      "start": 0.0
+    },
+    {
+      "id": "lipids",
+      "title": "What is high LDL?",
+      "start": 14.41
+    },
+    {
+      "id": "risk",
+      "title": "What can years of high LDL do?",
+      "start": 40.02
+    },
+    {
+      "id": "class",
+      "title": "What does the drug block?",
+      "start": 59.85
+    },
+    {
+      "id": "liver",
+      "title": "Where does the work happen?",
+      "start": 86.04
+    },
+    {
+      "id": "enter",
+      "title": "How does it enter the liver cell?",
+      "start": 91.83
+    },
+    {
+      "id": "enzyme",
+      "title": "What happens at the enzyme?",
+      "start": 105.06
+    },
+    {
+      "id": "fall",
+      "title": "What happens to LDL in the blood?",
+      "start": 124.0
+    },
+    {
+      "id": "dose",
+      "title": "What dose does the label list?",
+      "start": 142.65
+    },
+    {
+      "id": "limits",
+      "title": "What are the limits?",
+      "start": 167.4
+    }
+  ]
+}
