@@ -33,6 +33,7 @@ Over years they strain the heart and vessels.
 
 Metoprolol is a beta one selective blocker.
 It prefers the beta one receptors on the heart.
+At higher levels it can also affect beta two receptors.
 Blocking them slows the heart rate.
 It also reduces how hard the heart contracts.
 Blood pressure can fall.

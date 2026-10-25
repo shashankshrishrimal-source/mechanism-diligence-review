@@ -74,8 +74,7 @@ Scene: same synapse, more coral serotonin outside the nerve. No clock drawn as a
 The liver metabolizes most of the dose.
 The main metabolite is N-desmethylsertraline.
 That metabolite is much less active and stays longer.
-About 40 to 45 percent of a dose is recovered in urine and feces over 9 days.
-About 12 to 14 percent of that is unchanged drug.
+Hold: do not speak a recovery percent until the label sentence is pasted here. An earlier line said 40 to 45 percent of a dose is recovered in urine and feces over 9 days, and 12 to 14 percent of that is unchanged drug. “Of that” does not say whether the second percent is a share of the dose or of the recovered amount.
 The label does not name one enzyme for the main path in these spoken lines.
 
 Scene: liver, then kidney and gut. One picture per line. No invented CYP.

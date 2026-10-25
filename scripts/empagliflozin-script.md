@@ -53,6 +53,7 @@ The shapes are not the true shapes and are not to scale.
 Blood sugar can fall in type 2 diabetes.
 Heart-failure hospitalization risk can fall in the labeled group.
 Kidney progression risk can fall in the labeled group.
+The heart and kidney benefits are not explained by sugar loss alone.
 The effect continues while the medicine is taken.
 It does not cure the condition.
 It does not replace diet, exercise, or other labeled treatments when those are needed.

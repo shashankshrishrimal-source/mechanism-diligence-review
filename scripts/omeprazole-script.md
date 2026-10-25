@@ -58,7 +58,7 @@ The label says the binding is prolonged.
 The shapes are not the true shapes and are not to scale.
 We are changing the scale of the picture, not watching the medicine jump.
 
-Scene: teal pump in a gray membrane. Gold omeprazole seated. Less icy acid leaving. Labels in object colors.
+Scene: one sequence, no card between the states. First the teal pump is working and icy acid is leaving. Then gold omeprazole enters the pump and stays. Then less acid leaves. Do not show the drug letting go. Labels in object colors.
 
 ## 5. What happens when the pump is blocked?
 

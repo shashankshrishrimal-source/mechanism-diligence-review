@@ -13,6 +13,6 @@ What changes in the blood vessels?
 Vessels widen. Pressure falls. The effect can start within hours, but the full drop on a monitor may take weeks. It works while you take it.
 
 Dose and limits.
-On the US label for adults with high blood pressure, the usual start is 10 mg once a day. Range is often 20 to 40 mg. Maximum is 80 mg. Do not use in pregnancy, or after a serious allergic reaction including angioedema. Watch potassium and kidney tests. Dry cough can occur.
+On the US label for adults with high blood pressure, the usual start is 10 mg once a day. A common range is 20 to 40 mg. Hold: do not speak 80 mg as the maximum until the current label section for this use is pasted here. Other uses have other ceilings. Do not use in pregnancy, or after a serious allergic reaction including angioedema. Watch potassium and kidney tests. Dry cough can occur.
 
 This film is for education, not personal medical advice. Sources are the US prescribing information. For questions, sources, and feedback go to mechanismdiligence.com.

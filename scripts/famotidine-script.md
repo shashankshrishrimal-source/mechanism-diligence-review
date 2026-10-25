@@ -54,14 +54,12 @@ The drug leaves mainly in urine.
 
 ## 6. What dose does the label list?
 
-Labeled adult doses are often 20 or 40 milligrams once or twice a day, depending on the use.
-There is a maximum on the specific label.
-These are label limits, not a dose chosen for you.
+Hold: do not film this chapter until the adult prescription-tablet dose for the use this film follows is copied from the label, including the maximum and how often it is taken. Do not say “there is a maximum” without that number.
 
 ## 7. What are the limits?
 
 Do not use it after a serious allergy to famotidine.
-Reducing acid can raise the risk of certain infections or affect absorption of other medicines. That is the same action that eases heartburn.
+Reducing acid can raise the risk of certain infections or affect absorption of other medicines. Say that only if the label makes the link. Do not call it the same action that eases heartburn unless the label does.
 This film is for education, not personal medical advice.
 Independent clinical review is pending.
 For the sources, and to leave feedback, go to mechanismdiligence.com.

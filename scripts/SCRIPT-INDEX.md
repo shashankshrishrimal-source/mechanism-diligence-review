@@ -1,46 +1,40 @@
 # Mechanism Diligence — script index
 
-Bar: the kept atorvastatin and ibuprofen films.
+Picture standard: ibuprofen v7, the file in the public review pack. It is 720p. Keep its separate molecular stages. The opening card is long and the stages are stills. That is a known limit, not a reason to copy a later diagram cut.
 
-Every script opens with “Welcome to Mechanism Diligence” and “You might be here to understand a drug you were prescribed, or to learn how it works.” Chapters are questions. The condition is shown before the drug. The journey is route, organ, cell, barrier or partner, effect. One scale note. Dose and maximum are kept. Limits sit at the end. The close sends people to mechanismdiligence.com. Spoken lines are one idea each. Colors are locked. No face. No invented number.
+Nothing in this index is label-verified. “Written” means the shape is there. It does not mean a current US label was checked.
 
-## Locked to that bar
+## Written, still not verified
 
-| Drug | File | Scope |
+| Drug | File | Do not film until |
 |---|---|---|
-| Albuterol | albuterol-script.md | Ventolin HFA only |
-| Ezetimibe | ezetimibe-script.md | Single-ingredient oral tablets |
-| Losartan | losartan-script.md | Oral losartan potassium tablets |
-| Metformin | metformin-script.md | Immediate-release tablets |
-| Rosuvastatin | rosuvastatin-script.md | Crestor oral tablets |
+| Albuterol | albuterol-script.md | The trial endpoint for onset, and the dose restrictions, are copied from the current Ventolin HFA label |
+| Ezetimibe | ezetimibe-script.md | Liver-enzyme wording is not called a same-action harm unless the label says so |
+| Losartan | losartan-script.md | Urine percents are pasted with their denominator. Do not speak 14 percent or 4 percent before that |
+| Metformin | metformin-script.md | Lactic acidosis is not called the same action as lowering sugar. The dose card keeps both schedules |
+| Rosuvastatin | rosuvastatin-script.md | Liver and pregnancy lines match one pasted contraindication section. Mevalonate is not the same color as the drug |
 
-## Drafted to the same shape, still thin on one or two beats
+## Written, with open holds
 
-| Drug | File | What to confirm before filming |
+| Drug | File | Hold |
 |---|---|---|
-| Amlodipine | amlodipine-script.md | 10 mg maximum and 2.5 mg start against the current label |
-| Apixaban | apixaban-script.md | Boxed warnings for early stop and spinal procedures |
-| Empagliflozin | empagliflozin-script.md | Three uses named as separate plans; 10 to 25 mg |
-| Famotidine | famotidine-script.md | Adult prescription oral tablets only; confirm the maximum |
-| Levothyroxine | levothyroxine-script.md | No single dose; boxed warning against use for weight loss |
-| Metoprolol | metoprolol-script.md | Succinate extended-release only; no invented milligram ceiling |
-
-## Already filmed
-
-Ibuprofen, atorvastatin, lisinopril. Those scripts stay as the bar. Do not rewrite them unless the owner asks.
+| Amlodipine | amlodipine-script.md | Hypersensitivity wording. 10 mg maximum and 2.5 mg start against the current label |
+| Apixaban | apixaban-script.md | Full dose-reduction criteria. Boxed warnings stated with their consequences |
+| Empagliflozin | empagliflozin-script.md | Heart and kidney benefits are not explained by sugar loss alone |
+| Famotidine | famotidine-script.md | Dose chapter is not filmable until the adult prescription maximum is copied |
+| Levothyroxine | levothyroxine-script.md | Adult scope is now in the opening. No single dose. Boxed warning against use for weight loss |
+| Metoprolol | metoprolol-script.md | Selectivity includes the higher-dose beta two note. Doses above 400 mg are unstudied, not a recommended maximum |
+| Omeprazole | omeprazole-script.md | Prolonged binding is not slow unbinding. Working pump and occupied pump are one sequence |
+| Ondansetron | ondansetron-script.md | QT risk is not called the same action as nausea relief unless the label says so |
+| Sertraline | sertraline-script.md | Recovery percents stay out of the narration until the denominator is pasted |
+| Adalimumab | adalimumab-script.md | Clearance and unbinding are separate events |
+| Esketamine | esketamine-script.md | No reduced depressive signal. Induction and maintenance stay as two schedules |
+| Lisinopril | lisinopril-draft-script.md | Do not speak 80 mg as the maximum until the label section is pasted |
 
 ## Still to write
 
-Sodium oxybate, modafinil, and the GLP-1 family (exenatide, liraglutide, dulaglutide, orforglipron, tirzepatide, semaglutide variants). One product per film. Do not mix brands that have different labeled uses.
+Sodium oxybate, modafinil, and the GLP-1 family. One product per film.
 
-## Written this session
+## Films
 
-Omeprazole: omeprazole-script.md. Oral delayed-release capsules. Label setid af85e324-ef9f-196c-e053-2995a90a384e. Audited: prolonged binding kept, irreversible claim cut, elimination moved to its own chapter, education line only in the close.
-
-Ondansetron: ondansetron-script.md. Oral tablets only. Audited: one route kept, IV maximum cut from this film, aiming line corrected, elimination separated from limits, half-life separated from effect.
-
-Sertraline: sertraline-script.md. Oral tablets for major depressive disorder. Audited: aiming line in, not-to-scale in, clocks separated (26 hours is not the mood clock), elimination is its own chapter with the 40 to 45 percent recovery and the less-active metabolite, 200 mg maximum, boxed warning in the limits, education line only in the close.
-
-Adalimumab: adalimumab-script.md. Subcutaneous injection for adult rheumatoid arthritis. Audited: one route kept, antibody not a chemical structure, p55 and p75 named, does not bind TNF-beta, clocks separated (10 to 20 days is not the joint clock), same-action harm is infection risk, boxed warning in the limits, education line only in the close.
-
-Esketamine: esketamine-script.md. Nasal spray for treatment-resistant depression. Audited: one route kept, antidepressant mechanism stated as unknown, non-competitive NMDA block, clocks separated (7 to 12 hours is not the mood clock), noresketamine named, same-action harm is sedation and dissociation, boxed warning in the limits, education line only in the close.
+Atorvastatin v5 has the repaired inhibition scene. Omeprazole v4 no longer says the drug lets go slowly. Ibuprofen v7 remains the picture standard. Albuterol, amlodipine, and ezetimibe are the next three films, after the holds above.

@@ -98,9 +98,8 @@ It begins as a swallowed tablet.
 Food slows absorption and lowers the peak, but the amount absorbed is about the same.
 The liver forms the more potent active metabolite.
 The label does not name the enzyme that does this in these spoken lines.
-About 14 percent of a dose leaves in urine as unchanged drug.
-About 4 percent leaves as the active metabolite.
-The rest leaves in feces.
+Hold: do not speak a urine percent until the label sentence is pasted here, including what the percent is a share of. An earlier draft used 14 percent unchanged and 4 percent as the metabolite. Those numbers are not cleared to speak.
+The rest of the accounted drug leaves in feces.
 It is not removed by hemodialysis.
 
 Scene: tablet, then liver, then kidney. One picture per line. No invented transporter. Source: label 12.3.

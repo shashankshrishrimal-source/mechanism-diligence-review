@@ -60,7 +60,7 @@ The shape fits.
 The block lets go.
 The shapes are not the true shapes and are not to scale.
 
-Scene: teal enzyme. Gold drug seated. Small gold specks leaving, labeled “Mevalonate.” Left clump “Earlier enzymes.” Right clump “Later enzymes.” Do not letter LDL or transporters on this picture. Source: label 12.1.
+Scene: one teal enzyme, fixed view. First the enzyme is free and one building block becomes mevalonate. Then gold rosuvastatin enters. Then fewer mevalonate molecules leave. Mevalonate is icy, not gold. Do not show the drug during the conversion line. Source: label 12.1.
 
 ## 5. Where does the work happen?
 
@@ -111,6 +111,7 @@ Scene: three-line card. 5 to 40 mg. Once a day. Label limits. Source: label 2.2.
 
 Do not use it in acute liver failure or decompensated cirrhosis.
 Do not use it after a serious allergy to rosuvastatin or to an ingredient in the tablet.
+Hold before filming: an earlier draft said do not use in active liver disease or in pregnancy. This script says acute liver failure, decompensated cirrhosis, and fetal harm. Paste the current contraindication section before either wording is spoken.
 Muscle injury can be serious.
 Liver-enzyme increases have occurred.
 It may cause fetal harm.
@@ -127,7 +128,7 @@ Scene: limits card. Source: label 4, 5.1, 5.3, 8.1.
 |---|---|
 | Rosuvastatin | gold |
 | HMG-CoA reductase | teal |
-| Mevalonate | gold specks |
+| Mevalonate | icy |
 | LDL particle | icy blue |
 | HDL particle | sand, only if shown |
 | OATP1B1 | violet |

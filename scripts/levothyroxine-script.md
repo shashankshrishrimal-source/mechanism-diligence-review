@@ -17,7 +17,7 @@ Welcome to Mechanism Diligence.
 You might be here to understand a drug you were prescribed, or to learn how it works.
 This one is levothyroxine.
 Synthroid is the brand name, and it may be the name you already know.
-This film follows oral levothyroxine sodium tablets for thyroid hormone replacement.
+This film follows oral levothyroxine sodium tablets for adults who need thyroid hormone replacement.
 
 Scene: black. Pure-white MD mark, top left, not stretched, D open. Mechanism Diligence under the mark, smaller. Large name, brand in brackets. Small chemical structure captioned chemical structure. Small gold 3D model captioned 3D representative structure. One route: oral tablets.
 

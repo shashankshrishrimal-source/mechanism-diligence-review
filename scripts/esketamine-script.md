@@ -81,7 +81,7 @@ Maintenance is 56 or 84 milligrams once a week, then every one or two weeks.
 These are label directions, not a dose chosen for you.
 It is given as a nasal spray under supervision.
 
-Scene: dose card. 56 or 84 mg. Twice weekly then less often.
+Scene: two lines, not one. Induction: 56 or 84 mg twice a week for four weeks. Maintenance: 56 or 84 mg once a week, then every one or two weeks. Hold: do not imply either dose is the usual dose until the label says who receives 56 mg and who receives 84 mg.
 
 ## 9. What are the limits?
 
