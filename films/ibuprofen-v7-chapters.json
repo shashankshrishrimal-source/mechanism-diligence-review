@@ -1,0 +1,14 @@
+{
+  "title": "Ibuprofen",
+  "register": "schematic",
+  "duration": 99.82,
+  "chapters": [
+    { "id": "title", "title": "Ibuprofen", "start": 0 },
+    { "id": "membrane", "title": "The membrane", "start": 30.03 },
+    { "id": "cox", "title": "COX", "start": 39.87 },
+    { "id": "channel", "title": "The channel", "start": 48.46 },
+    { "id": "effect", "title": "The effect", "start": 62.14 },
+    { "id": "time", "title": "Time", "start": 71.72 },
+    { "id": "close", "title": "Close", "start": 86.31 }
+  ]
+}
