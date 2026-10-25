@@ -90,7 +90,7 @@ Scene: simple leave path. One picture.
 ## 8. What dose does the label list?
 
 For nonvalvular atrial fibrillation the usual dose is 5 milligrams twice a day.
-Some people take 2.5 milligrams twice a day based on age, weight, or kidney function.
+Some people take 2.5 milligrams twice a day. Do not film that rule until the label’s age, weight, and kidney criteria are written in full. “Age, weight, or kidney function” is not enough.
 Other uses have their own dose plans.
 These are label directions, not a dose chosen for you.
 Take with or without food.
@@ -101,7 +101,7 @@ Scene: dose card. 5 mg twice daily usual for AF. Source: label 2.
 
 Do not use it if you have active bleeding.
 Do not use it after a severe hypersensitivity to apixaban.
-There are boxed warnings about stopping it early and about spinal procedures.
+There are boxed warnings about stopping it early and about spinal procedures. Say the consequence in the warning, not only the subject. Do not film those lines until the label wording is in the script.
 Bleeding can be serious.
 Easier bleeding is the same action that reduces harmful clots.
 This film is for education, not personal medical advice.

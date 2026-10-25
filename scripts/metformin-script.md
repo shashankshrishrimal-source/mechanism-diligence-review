@@ -68,7 +68,7 @@ The effect builds over days to weeks.
 Low blood sugar is uncommon when metformin is used alone.
 It works only while it is taken.
 It does not cure the diabetes.
-Reducing liver glucose output and improving insulin sensitivity lowers blood sugar. That is the same action that can raise the risk of lactic acidosis when the kidneys are impaired.
+The blood sugar can fall. Lactic acidosis is a boxed warning. This film does not say that warning is caused by the glucose-lowering effect. The drug leaves through the kidneys, and severe kidney impairment is a limit.
 The drug itself leaves mainly through the kidneys.
 That is why severe kidney impairment is a limit.
 
@@ -82,7 +82,7 @@ The maximum is 2,550 milligrams a day, in divided doses.
 These are label limits, not a dose chosen for you.
 Extended-release tablets have different instructions.
 
-Scene: three-line card. 500 or 850 start. 2,550 maximum, divided. Label limits. Source: label 2.
+Scene: dose card. Keep both schedules on the card: 500 mg twice a day, or 850 mg once a day, with meals. Maximum 2,550 mg a day, in divided doses. Do not shorten this to “500 or 850.” Source: label 2.
 
 ## 7. What are the limits?
 
@@ -92,7 +92,7 @@ Do not use it after a serious allergy to metformin.
 There is a boxed warning for lactic acidosis.
 It is rare, and it can be life-threatening.
 Kidney function is checked.
-Lactic acidosis is the same-action risk the label boxes.
+Lactic acidosis is a boxed warning. It is rare, and it can be life-threatening. Do not call it the same action as lowering blood sugar.
 This film is for education, not personal medical advice.
 Independent clinical review is pending.
 For the sources, and to leave feedback, go to mechanismdiligence.com.

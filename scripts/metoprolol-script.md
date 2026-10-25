@@ -83,7 +83,7 @@ Player and chrome: white MD logo (correct proportions) with Mechanism Diligence 
 1. Title. Black. Name and brand. Small chemical structure and 3D model. Metoprolol is gold.
 2. Heart under load. Vessel pressure. No drug.
 3. Cardiac membrane. Beta one receptor. Catecholamine blocked by metoprolol. Slower rate, less contractility.
-4. Dose card. Start range. Studied maximum.
+4. Dose card. Start range. If the label says doses above 400 mg a day were not studied, say that. Do not call 400 mg a recommended maximum unless the label does.
 5. Limits card. Abrupt stop. Certain blocks.
 
 ## Sources

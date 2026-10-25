@@ -73,7 +73,7 @@ Scene: one-line card. 10 mg once a day.
 
 Do not use it after a serious allergy to ezetimibe.
 When used with a statin, follow the statin label for liver monitoring.
-Liver enzyme increases can occur with the combination. That is a same-action consideration from the cholesterol pathway.
+Liver enzyme increases can occur with the combination. Do not call that a same-action harm of the cholesterol pathway unless the label makes that link.
 Ezetimibe is mainly eliminated in the bile after glucuronidation.
 Independent clinical review is pending.
 For the sources and to leave feedback, go to mechanismdiligence.com.

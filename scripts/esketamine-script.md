@@ -62,7 +62,7 @@ The full course is given under medical supervision.
 It works while you take it on the labeled schedule.
 Peak levels in blood are not when the mood change is measured.
 
-Scene: reduced depressive signal.
+Scene: the NMDA receptor with the drug in the channel, then stop. Do not draw a reduced depressive signal. The antidepressant mechanism is not known.
 
 ## 7. How does it leave?
 

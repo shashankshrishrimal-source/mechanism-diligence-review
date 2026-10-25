@@ -48,7 +48,7 @@ Scene: injection then blood then joint.
 
 TNF-alpha binds to receptors on cells and helps drive inflammation.
 Adalimumab binds TNF-alpha and keeps it from attaching to those receptors.
-Nothing is aiming. The shape fits. The block lets go when the complex is cleared.
+Nothing is aiming. The shape fits. Clearing the drug-target complex is a different event from the drug letting go. Do not treat those as one event.
 With less free TNF-alpha, the inflammatory signal is reduced.
 The shapes are not the true shapes and are not to scale.
 It does not bind TNF-beta.

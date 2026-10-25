@@ -87,8 +87,7 @@ Scene: three-line card. 8 mg. 24 mg single oral for some chemotherapy. Label lim
 Do not use it after a serious allergy to ondansetron.
 Do not use it with apomorphine.
 Do not use it in congenital long QT syndrome.
-Blocking the 5-HT3 receptor can prolong the QT interval.
-That is the same action that reduces nausea.
+Blocking the 5-HT3 receptor can prolong the QT interval. Do not call that the same action that reduces nausea unless the label makes that link.
 This film is for education, not personal medical advice.
 Independent clinical review is pending.
 For the sources, and to leave feedback, go to mechanismdiligence.com.

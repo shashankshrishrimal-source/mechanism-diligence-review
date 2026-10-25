@@ -114,7 +114,7 @@ Do not use it after a serious allergy to rosuvastatin or to an ingredient in the
 Muscle injury can be serious.
 Liver-enzyme increases have occurred.
 It may cause fetal harm.
-Muscle injury is the same-action harm the label warns for.
+Muscle injury can be serious. Do not call it a same-action harm of blocking the enzyme unless the label makes that link.
 This film is for education, not personal medical advice.
 Independent clinical review is pending.
 For the sources, and to leave feedback, go to mechanismdiligence.com.
@@ -140,7 +140,7 @@ Scene: limits card. Source: label 4, 5.1, 5.3, 8.1.
 - A face, a mascot, or a jewelry-chain lipid.
 
 
-Blocking HMG-CoA reductase lowers new cholesterol production. That is the same action that can cause muscle injury.
+Blocking HMG-CoA reductase lowers new cholesterol production. Do not say that this same action causes muscle injury unless the label makes that link.
 
 ## Player and chrome rules
 White MD logo (correct proportions, D open) with “Mechanism Diligence” under it on the title. After the title, the header becomes the current question. Subtitles are raised so they clear the player bar. Click anywhere in the video to pause or play. Chapters appear as questions with white markers on the progress bar. 1.5× and 2.0× speed options are available.

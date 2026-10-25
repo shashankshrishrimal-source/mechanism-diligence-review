@@ -124,5 +124,6 @@ Scene: limits card. No face.
 ## Do not film
 
 - A claim that the binding is irreversible. The label says prolonged binding and a long effect, not that word.
+- A claim that the drug lets go slowly. Prolonged acid suppression is not, by itself, a slow-unbinding story. Do not animate release unless a cited source describes it.
 - The OTC 14-day course as if it were the prescription plan.
 - A face, a mascot, or a jewelry-chain molecule.

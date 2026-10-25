@@ -61,7 +61,7 @@ Vessels relax.
 Blood pressure falls.
 The full drop can take days to weeks.
 It works while you take it once a day.
-Peak levels in blood are not when the pressure reading falls.
+Peak blood concentration and the full blood-pressure response are different measurements.
 
 Scene: relaxed vessel.
 
@@ -85,7 +85,7 @@ Scene: dose card.
 
 ## 9. What are the limits?
 
-Do not use after a serious allergy to amlodipine.
+Do not use after a hypersensitivity reaction to amlodipine. Confirm the label’s wording before filming. Do not narrow this to “serious allergy” unless the label says that.
 Ankle or leg swelling can occur and is more common at higher doses.
 That swelling comes from the same vessel relaxation.
 Dizziness is possible, especially when standing.
