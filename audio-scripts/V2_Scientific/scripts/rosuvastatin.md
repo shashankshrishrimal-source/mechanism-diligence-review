@@ -1,0 +1,69 @@
+# Rosuvastatin
+
+Welcome to Mechanism Diligence.
+Let’s talk about rosuvastatin, which is the generic name.
+Crestor is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following single-ingredient oral rosuvastatin tablets. Rosuvastatin is a statin. It changes cholesterol metabolism mainly through an enzyme inside liver cells, followed by a feedback response that removes more LDL from blood.
+
+## What biological problem does it address?
+
+LDL stands for low-density lipoprotein. Each particle carries cholesterol and other lipids around a structural protein called apo B. LDL cholesterol measures the cholesterol within these particles; it does not directly count them.
+
+When apo B-containing particles are retained in artery walls, they can promote lipid accumulation and inflammation. That process contributes to atherosclerosis, the formation of plaques that can obstruct blood flow or trigger a clot after rupture. Lowering LDL reduces cumulative exposure. It does not make every existing plaque disappear.
+
+## How does it reach its target?
+
+The tablet releases rosuvastatin in the digestive tract. Absorbed drug travels through blood to the liver. OATP1B1 is an uptake transporter that helps move rosuvastatin into liver cells.
+
+Another transporter, BCRP, participates in drug export. It is an efflux transporter, meaning it moves drug outward across membranes. Inhibiting either transport system can raise exposure. Rosuvastatin is active without conversion to an active metabolite, and its clearance is not primarily dependent on CYP3A4 metabolism.
+
+## What happens at the target?
+
+The target is HMG-CoA reductase, an enzyme anchored in the endoplasmic reticulum. Its catalytic region faces the cytoplasm. Normally, this region converts HMG-CoA into mevalonate. Later reactions use mevalonate to make cholesterol and other products.
+
+Rosuvastatin occupies part of the substrate-binding region. The substrate is the molecule an enzyme normally acts on. Drug binding interferes with productive substrate access, reducing the rate of the reaction.
+
+This is reversible inhibition. The molecule does not cut the enzyme apart, and it does not directly bind circulating LDL to remove it. The LDL effect comes from the liver cell’s response to reduced cholesterol synthesis.
+
+## How does that action change the system?
+
+A fall in available cholesterol activates a feedback system involving sterol regulatory element-binding protein two, or SREBP-2. It regulates gene transcription, meaning the copying of a gene’s instructions into RNA.
+
+The response increases LDL-receptor production. Receptors at the liver-cell surface capture LDL particles and carry them into the cell. After release of the cargo, many receptors recycle to the surface for another round.
+
+This feedback has a counterweight. SREBP-2 can also increase PCSK9, a protein that sends LDL receptors toward degradation instead of recycling. The net response still favors greater LDL clearance, but the system contains its own limits. A statin does not directly block PCSK9.
+
+Reduced synthesis also lowers very-low-density lipoproteins, or VLDL, which are liver-derived particles that can give rise to LDL during circulation. Clearance and production both matter.
+
+## What is established, and what is still uncertain?
+
+The mevalonate pathway produces more than cholesterol. It also supplies isoprenoid groups used to modify signaling proteins. Adding these lipid groups is called prenylation. It helps proteins such as Rho and Rac reach the membranes where they work.
+
+Statins can alter these pathways and inflammatory signaling. Those effects are mechanistically supported, but their independent contribution to prevention of heart attacks or strokes in humans remains uncertain. A molecular effect in an experiment is not automatically a separate proven clinical mechanism.
+
+## How does the action connect to benefit and harm?
+
+The beneficial chain is reduced synthesis, increased receptor-mediated clearance, and less LDL exposure over time. Other tissues also depend on products of the mevalonate pathway.
+
+Muscle toxicity has multiple proposed mechanisms; no single downstream pathway explains every case. Serious muscle breakdown and rare immune-mediated muscle injury are recognized risks. Liver injury and increased blood glucose also need attention. An ordinary muscle ache does not by itself establish muscle destruction, but a new symptom should not be dismissed.
+
+## How long does the action last?
+
+Rosuvastatin’s plasma half-life is about nineteen hours. That describes declining drug concentration, not the duration of cardiovascular protection. The label reports that the maximum LDL reduction is usually reached by four weeks with continued treatment. A sustained benefit requires sustained control of the underlying risk.
+
+## What adult dosing does the label describe?
+
+For adult oral treatment of high cholesterol, the labeled range is five to forty milligrams once daily. Asian patients start at five milligrams. With severe kidney impairment in patients not on hemodialysis, the start is five and the maximum is ten milligrams daily. Interacting medicines impose additional restrictions. These are label limits, not a dose chosen for you.
+
+## What must not be overlooked?
+
+Rosuvastatin is contraindicated in acute liver failure, decompensated cirrhosis, and hypersensitivity to its ingredients. Unexplained muscle weakness or dark urine warrants prompt assessment. Pregnancy generally requires discontinuation and individualized review; breastfeeding is not recommended during treatment.
+
+## What is the take-home mechanism?
+
+Rosuvastatin blocks a cholesterol-synthesis step inside liver cells. The liver responds by increasing LDL-receptor activity and clearing more particles from blood. Transporters, feedback proteins, and downstream pathways modify that response without replacing the central mechanism.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

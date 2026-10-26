@@ -1,0 +1,69 @@
+# Atorvastatin
+
+Welcome to Mechanism Diligence.
+Let’s talk about atorvastatin, which is the generic name.
+Lipitor is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following single-ingredient oral atorvastatin calcium tablets. Atorvastatin is a statin. Its main molecular target is an enzyme involved in making cholesterol. But the important consequence happens at another protein: the receptor that removes LDL particles from blood.
+
+## What biological problem does it address?
+
+LDL means low-density lipoprotein. It’s a particle containing lipids and a structural protein called apolipoprotein B, or apo B. Cholesterol is part of its cargo. LDL cholesterol, the laboratory measurement, measures cholesterol carried by these particles; it isn’t the particle count.
+
+LDL particles can enter and become retained in artery walls. Their accumulation promotes inflammation and atherosclerotic plaque. Plaque can narrow an artery or rupture and trigger a clot. Reducing sustained exposure to LDL lowers this risk. Atorvastatin doesn’t physically wash plaque out of an artery.
+
+## How does it reach its target?
+
+After intestinal absorption, atorvastatin reaches the liver through portal blood. Liver uptake involves transport proteins, including OATP1B1 and OATP1B3. These help move the drug into hepatocytes, the liver’s main working cells.
+
+Atorvastatin is active as administered. Liver metabolism also produces active derivatives. CYP3A4, a drug-metabolizing enzyme, participates in that processing. Blocking uptake or metabolism can change drug exposure, which helps explain some interactions.
+
+## What happens at the target?
+
+The target is HMG-CoA reductase. HMG-CoA is the enzyme’s starting material, and mevalonate is its product. This reaction is an important controlled step in a longer pathway that produces cholesterol and other molecules.
+
+The enzyme is anchored in the endoplasmic reticulum, a membrane network inside the cell. Its catalytic region, where the chemical reaction occurs, faces the cytoplasm.
+
+Atorvastatin binds within the region used by HMG-CoA. Its interactions prevent productive access by the substrate, meaning the molecule the enzyme would normally process. This is competitive inhibition. Binding is reversible; the drug doesn’t permanently destroy the enzyme. Less mevalonate is produced while sufficient inhibition is present.
+
+## How does that action change the system?
+
+Here’s the essential feedback loop. When the liver cell’s cholesterol supply falls, a cholesterol-sensing system activates sterol regulatory element-binding protein two, or SREBP-2. That is a transcription factor: a protein that changes which genes are read.
+
+SREBP-2 increases production of LDL receptors. More receptors reach the liver-cell surface, bind circulating LDL, and bring the particles inside. The cell separates receptor from cargo. Receptors can return to the surface, while the particle’s contents are processed internally.
+
+So an intracellular synthesis inhibitor lowers extracellular LDL largely by recruiting the liver’s clearance machinery. The response also includes changes in production of apo B-containing particles. This is more than simply packing less cholesterol into each new particle.
+
+## What is established, and what is still uncertain?
+
+Mevalonate also supplies isoprenoids, molecules used to attach lipid groups to signaling proteins. That attachment is called prenylation. Proteins such as Rho and Rac use it for normal localization and signaling.
+
+Reducing this branch can influence vascular signaling, oxidative stress, and inflammation. These are called pleiotropic effects: additional consequences of the same upstream intervention. They are not proof that atorvastatin directly inhibits every downstream protein. How much these pathways independently contribute to clinical benefit in humans remains difficult to separate from LDL lowering.
+
+## How does the action connect to benefit and harm?
+
+Increasing LDL clearance explains the principal therapeutic benefit. The same mevalonate pathway also supports normal cell functions, including functions in muscle.
+
+Muscle toxicity has several proposed contributors, including altered prenylation and mitochondrial function. It should not be reduced to one proven explanation, such as depletion of coenzyme Q10. Clinically, muscle injury can progress to rhabdomyolysis, severe muscle breakdown that can damage kidneys. Rare immune-mediated muscle disease can persist after the drug is stopped. Blood glucose can also increase.
+
+## How long does the action last?
+
+Drug concentration, enzyme inhibition, and LDL response follow different clocks. Active metabolites extend inhibitory activity beyond the parent drug’s presence alone. Most elimination occurs through bile. A blood concentration does not directly predict an individual’s LDL reduction.
+
+The label allows LDL reassessment as early as four weeks. That is a monitoring interval, not an instant switch from no effect to full protection.
+
+## What adult dosing does the label describe?
+
+For oral treatment of adult primary hyperlipidemia, the labeled starting dose is ten to twenty milligrams once daily; the range is ten to eighty milligrams. The label permits a forty-milligram start when more than a forty-five-percent LDL reduction is needed. Interactions can require lower limits. These are label doses, not a personal recommendation.
+
+## What must not be overlooked?
+
+Do not use atorvastatin in acute liver failure, decompensated cirrhosis, or known hypersensitivity to its ingredients. New unexplained muscle weakness, pain, or dark urine requires prompt assessment. Pregnancy generally calls for discontinuation and individualized medical review; breastfeeding is not recommended during treatment.
+
+## What is the take-home mechanism?
+
+Atorvastatin inhibits HMG-CoA reductase, reduces mevalonate production, and activates a liver-cell feedback response that increases LDL clearance. Additional signaling effects are biologically plausible, but LDL lowering remains the central established explanation.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

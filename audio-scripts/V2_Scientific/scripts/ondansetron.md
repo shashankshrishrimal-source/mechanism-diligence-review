@@ -1,0 +1,69 @@
+# Ondansetron
+
+Welcome to Mechanism Diligence.
+Let’s talk about ondansetron, which is the generic name.
+Zofran is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+Ondansetron is an antiemetic, a medicine that prevents nausea and vomiting in specified settings. This explanation follows swallowed oral tablets, with prevention during moderately emetogenic cancer chemotherapy as the adult dosing example. Emetogenic means capable of causing vomiting.
+
+## What biological problem does it address?
+
+Chemotherapy can provoke serotonin release from enterochromaffin cells in the intestinal lining. Serotonin is a signaling molecule also called five-hydroxytryptamine, abbreviated five-HT.
+
+It can activate sensory nerve endings in the gut. These include vagal afferents: fibers carrying information toward the brain through the vagus nerve. Signals reach brainstem circuits that coordinate vomiting.
+
+This is one route into a broader network. Nausea, the subjective feeling of needing to vomit, and vomiting, the coordinated motor response, are related but are not identical outcomes.
+
+## How does it reach its target?
+
+The tablet dissolves in the digestive tract, and ondansetron is absorbed into blood. It undergoes first-pass metabolism, meaning some is metabolized before reaching the systemic circulation.
+
+The relevant receptor sites include peripheral vagal nerve endings and central sites involved in emetic signaling, including the area postrema in the brainstem. The drug acts at receptors in tissue; it does not coat the stomach or prevent chemotherapy from reaching its target.
+
+## What happens at the target?
+
+Ondansetron blocks the five-HT-three receptor. Unlike other serotonin receptor families, this receptor is a ligand-gated ion channel. A ligand is a molecule that binds a protein. Here, serotonin binding can open a pathway for positively charged ions through the cell membrane.
+
+The channel is assembled from five protein subunits. Its extracellular binding pockets sit at interfaces between subunits. When serotonin promotes opening, ion movement can depolarize the neuron, shifting its electrical voltage toward excitation.
+
+Ondansetron competes at the serotonin-binding site and prevents effective serotonin-driven channel activation. It is not a plug inserted into the channel’s central pore, and it is not a dopamine receptor blocker.
+
+## How does that action change the system?
+
+Blocking this receptor reduces one excitatory input into the vomiting network. Less activation of vagal sensory pathways means less drive from the gut to brainstem emetic circuits. Blockade at central receptor sites may also contribute.
+
+Structural studies support binding in the extracellular neurotransmitter pocket rather than physical blockage of the pore. Inhibition keeps the channel from conducting its normal excitatory current even though the receptor can change shape. Binding and activation are different events.
+
+## What is established, and what is still uncertain?
+
+Selective five-HT-three antagonism is established. The US label explicitly says the overall antiemetic mechanism is not fully characterized, and the relative contribution of peripheral and central sites remains uncertain.
+
+Other pathways, including substance P acting at neurokinin-one receptors, contribute to chemotherapy-related nausea and vomiting, especially delayed symptoms. Ondansetron does not block all of them. This helps explain why it may be one component of a multi-drug prevention regimen rather than a complete answer by itself.
+
+## How does the action connect to benefit and harm?
+
+Reducing serotonin-driven emetic signaling can prevent vomiting. Serotonin also participates in normal gut motility, so interfering with its signaling can contribute to constipation. Symptom control does not prove that an obstructed or poorly moving bowel has recovered.
+
+Ondansetron can also prolong the QT interval, an electrical measurement on the heart tracing, and rare dangerous arrhythmias have been reported. The label also warns about myocardial ischemia, reduced blood flow to heart muscle; new chest pain needs urgent assessment. These cardiac risks are distinct from the desired blockade of the gut-to-brain signal.
+
+## How long does the action last?
+
+The duration of protection depends on the emetic stimulus, dose schedule, and other medicines used. Plasma half-life is a measure of drug elimination; it is not a universal timer for antiemetic protection.
+
+The liver metabolizes most ondansetron through several enzymes, including CYP3A4, CYP2D6, and CYP1A2. Severe liver impairment reduces clearance and changes the permitted daily dose.
+
+## What adult dosing does the label describe?
+
+For moderately emetogenic chemotherapy, the oral label describes eight milligrams thirty minutes before treatment, another eight milligrams eight hours after the first dose, then eight milligrams every twelve hours for one to two days after chemotherapy ends. With severe hepatic impairment, the total must not exceed eight milligrams daily. These are label regimens, not personal dosing advice.
+
+## What must not be overlooked?
+
+Ondansetron is contraindicated with apomorphine and in people with hypersensitivity to ondansetron or formulation ingredients. Separately, the label says to avoid it in congenital long-QT syndrome. It also warns about serotonin syndrome, particularly with other serotonergic drugs, and about masking progressive ileus, meaning impaired intestinal propulsion.
+
+## What is the take-home mechanism?
+
+Ondansetron prevents serotonin from efficiently activating a specific excitatory ion channel. It interrupts an important route into emetic circuitry, without treating every cause of nausea or blocking every pathway that can produce vomiting.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

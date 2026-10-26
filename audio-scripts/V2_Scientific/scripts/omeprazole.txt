@@ -1,0 +1,73 @@
+Welcome to Mechanism Diligence.
+Let’s talk about omeprazole, which is the generic name.
+Prilosec is a brand name, and it may be the name you already know.
+
+What is this drug?
+
+Omeprazole reduces stomach acid. It belongs to the proton pump inhibitor family. This explanation follows prescription oral delayed-release capsules, with adult symptomatic gastroesophageal reflux disease, or GERD, as the dosing example.
+
+What biological problem does it address?
+
+In GERD, stomach contents flow back into the esophagus. Acid can contribute to symptoms and tissue injury, but reflux does not necessarily mean the stomach makes too much acid.
+
+The acid comes from parietal cells in the stomach lining. Their hydrogen-potassium ATPase uses energy from ATP to exchange hydrogen ions for potassium ions. Hydrogen ions are protons, which explains the name proton pump. Histamine, gastrin, and nerve signals regulate acid secretion, but the pump performs its final transport step.
+
+How does it reach its target?
+
+The journey has an apparent contradiction: acid can destroy the drug, yet acid also activates it at its target.
+
+An enteric coating protects the capsule’s granules during passage through the stomach. The granules release omeprazole farther along in the intestine, where it is absorbed into blood. Blood carries it back to the stomach lining.
+
+Omeprazole then enters parietal cells and reaches their secretory canaliculi. These are tiny channels connected to the stomach cavity. Their interior is acidic; the surrounding cell interior is not equally acidic.
+
+What happens at the target?
+
+Omeprazole is a prodrug: the swallowed molecule must undergo chemical activation before it inhibits the pump.
+
+In the acidic canaliculus, it accepts protons and becomes less able to cross back through membranes. This is called ion trapping. Further protonation drives a chemical rearrangement into reactive sulfenic acid and sulfenamide species.
+
+These species react with cysteine residues exposed on the pump’s canalicular side. Cysteine is a sulfur-containing amino acid. The reaction creates a disulfide linkage, a covalent bond involving sulfur, and inhibits the pump.
+
+So the active drug does more than occupy a pocket temporarily. It chemically modifies its target. This is why falling blood concentrations do not immediately restore acid secretion.
+
+How does that action change the system?
+
+Fewer functioning pumps move fewer protons into the stomach. Acidity falls even when upstream signals continue to request acid secretion.
+
+The timing matters because stimulated parietal cells provide the acidic environment and accessible pumps needed for efficient inhibition. Taking this formulation before a meal helps align drug availability with meal-related pump activation.
+
+Not every pump is active at the same time. Repeated dosing can therefore inhibit additional pumps on subsequent days. Recovery involves newly available or newly synthesized pumps. “Irreversible inhibition” describes persistent target modification, not permanent loss of the stomach’s ability to make acid.
+
+What is established, and what is still uncertain?
+
+Acid-dependent activation and covalent pump inhibition are the established therapeutic mechanism.
+
+Newer research explores molecular interactions beyond the gastric pump. These findings do not yet establish an additional therapeutic mechanism for omeprazole in humans. A detectable interaction with a protein is not automatically a clinically important effect at the dose used to treat reflux.
+
+Likewise, associations between long-term proton pump inhibitor use and disease do not, by themselves, prove that omeprazole caused the disease or identify its molecular cause.
+
+How does the action connect to benefit and harm?
+
+Reducing acidity can relieve acid-related symptoms and permit injured tissue to heal. It does not directly repair the reflux barrier or eradicate Helicobacter pylori by itself.
+
+The same reduction in acidity can alter absorption of medicines that depend on an acidic stomach. Reduced acid defense also provides a plausible link to some intestinal infection risks. The label warns about Clostridioides difficile-associated diarrhea. These effects are consequences of changing the stomach environment, rather than proof of another therapeutic target.
+
+How long does the action last?
+
+Blood concentrations decline much sooner than pump inhibition does. The plasma half-life is about half an hour to one hour. With daily dosing, acid suppression builds over several days. Neither number is a countdown to symptom relief or complete healing.
+
+The liver metabolizes omeprazole, mainly through CYP2C19, with CYP3A4 also contributing. Genetic differences and interacting drugs can change exposure. Metabolites leave through urine and bile.
+
+What adult dosing does the label describe?
+
+For symptomatic GERD, the prescription capsule label describes twenty milligrams once daily for up to four weeks, before a meal. This is an adult labeled regimen, not a personal dose or a universal maximum for every indication. Other uses have different regimens.
+
+What must not be overlooked?
+
+It is contraindicated with rilpivirine-containing products and in people with hypersensitivity to omeprazole, related substituted benzimidazoles, or formulation ingredients. Avoid combining it with clopidogrel: inhibition of CYP2C19 can reduce clopidogrel activation. Important additional warnings include kidney inflammation, severe skin reactions, and low magnesium.
+
+What is the take-home mechanism?
+
+Omeprazole travels through blood, becomes concentrated and activated in an acidic secretory compartment, then covalently inhibits the gastric proton pump. Its effect lasts beyond its brief presence in plasma because target recovery takes longer than drug clearance.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

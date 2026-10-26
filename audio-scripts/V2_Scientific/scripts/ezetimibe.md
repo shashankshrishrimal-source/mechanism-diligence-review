@@ -1,0 +1,67 @@
+# Ezetimibe
+
+Welcome to Mechanism Diligence.
+Let’s talk about ezetimibe, which is the generic name.
+Zetia is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following single-ingredient oral tablets for adult primary hyperlipidemia. For this indication, the label describes use with a statin, or alone when additional LDL-lowering treatment is not possible, alongside diet. Ezetimibe reduces cholesterol absorption. Its main therapeutic target is in the intestinal lining, although the resulting fall in blood LDL depends heavily on the liver’s response.
+
+## What biological problem does it address?
+
+Cholesterol reaches the intestine from food and from bile, a fluid the liver sends into the gut. Much of this cholesterol can be absorbed again. So intestinal absorption is part of a recycling system, not simply a measure of what someone eats.
+
+In blood, LDL particles carry cholesterol. Prolonged exposure to excess LDL contributes to its retention in artery walls and to atherosclerosis. Ezetimibe changes the supply of cholesterol entering the body, helping the liver clear more circulating LDL.
+
+## How does it reach its target?
+
+After swallowing, ezetimibe is absorbed and extensively converted to ezetimibe-glucuronide. Glucuronidation attaches a glucuronic-acid group to a molecule. In this case, the derivative remains pharmacologically active.
+
+The drug and its active derivative undergo enterohepatic recycling: movement through the liver, bile, intestine, and back into circulation. Their presence at the intestinal brush border supports the local action. The brush border is the densely folded, gut-facing surface of absorptive intestinal cells, called enterocytes.
+
+## What happens at the target?
+
+The target is NPC1L1, short for Niemann-Pick C1-Like 1. It is a membrane protein that participates in sterol uptake. Sterols are a family of lipids that includes cholesterol and plant sterols.
+
+In the gut, bile components help present cholesterol in small assemblies called mixed micelles. NPC1L1 helps transfer cholesterol from this environment into the enterocyte’s uptake pathway.
+
+Experiments with purified NPC1L1 and cultured cells suggest that ezetimibe binding interferes with cholesterol transfer and the coordinated protein movements needed for uptake. Structural studies of the human protein show altered organization in its sterol-sensing region. These findings help explain inhibition at a molecular level, but do not establish every step in a living human intestine.
+
+The shared conclusion is firm: NPC1L1-mediated uptake falls. The precise sequence linking cholesterol transfer, membrane enrichment, and endocytosis remains under investigation. Endocytosis means taking membrane and associated material into a cell within a small vesicle. Cholesterol uptake involves a coordinated process, not simply passage through a permanently open hole.
+
+## How does that action change the system?
+
+Less absorbed cholesterol enters intestinal transport particles called chylomicrons. Their remnants normally deliver cholesterol to the liver after passage through lymph and blood. This is not a direct cholesterol shortcut from the intestinal lumen into portal blood.
+
+Lower hepatic cholesterol availability stimulates a compensatory response, including increased LDL-receptor expression. The liver captures and processes more LDL particles from circulation.
+
+Cholesterol synthesis can also rise in compensation. That helps explain why blocking absorption with ezetimibe and blocking synthesis with a statin can be complementary. They begin at different targets and converge on the liver’s cholesterol balance and LDL clearance.
+
+## What is established, and what is still uncertain?
+
+Human liver cells also express NPC1L1 on the membrane facing bile. Experimental evidence supports a role in reclaiming cholesterol from bile. The size of this hepatic contribution to ezetimibe’s clinical LDL effect is less certain than the established intestinal action.
+
+## How does the action connect to benefit and harm?
+
+The established benefit is reduced sterol absorption and increased LDL clearance. Clinical outcome evidence also supports adding ezetimibe to statin therapy in studied populations; it is not a guarantee that any individual event will be prevented.
+
+Reduced absorption does not mean every adverse effect is caused by cholesterol deprivation. Diarrhea can occur. Liver-enzyme elevations, serious muscle injury, and hypersensitivity have been reported. Their existence is established even when a single molecular explanation is not.
+
+## How long does the action last?
+
+Both the parent drug and active glucuronide have half-lives of roughly twenty-two hours, with recycling contributing to persistence. That does not mean the LDL response ends precisely twenty-two hours after a dose. The label allows LDL reassessment as early as four weeks after starting treatment.
+
+## What adult dosing does the label describe?
+
+The adult oral dose is ten milligrams once daily, with or without food. The label provides no higher dose. Separate it from a bile-acid sequestrant by at least two hours before or four hours after. This is a label description, not a personal regimen.
+
+## What must not be overlooked?
+
+Do not use ezetimibe with known hypersensitivity to it or its ingredients. When combined with another lipid-lowering medicine, that medicine’s contraindications also apply. Moderate or severe liver impairment is a setting where ezetimibe is not recommended.
+
+## What is the take-home mechanism?
+
+Ezetimibe inhibits NPC1L1-mediated intestinal sterol uptake. Less cholesterol delivery prompts greater hepatic LDL clearance. The molecular evidence supports blocked transport, while details of trafficking and the clinical importance of hepatic NPC1L1 remain active research questions.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

@@ -1,0 +1,79 @@
+Welcome to Mechanism Diligence.
+Let’s talk about lisinopril, which is the generic name.
+Zestril is a brand name, and it may be the name you already know.
+
+What is this drug?
+
+We’re following oral tablets, with adult hypertension as our dosing example. Lisinopril inhibits angiotensin-converting enzyme, usually called ACE. The important point is that ACE processes more than one signaling molecule. Blocking it changes both a blood-pressure pathway and a pathway involved in vascular permeability.
+
+What biological problem does it address?
+
+Blood pressure depends partly on how tightly small arteries contract and how much sodium and water the kidneys retain.
+
+One controller is the renin–angiotensin–aldosterone system. Renin, an enzyme released by the kidneys, cuts a liver-produced protein called angiotensinogen to form angiotensin one. ACE removes two amino acids from angiotensin one, producing angiotensin two.
+
+Angiotensin two activates the AT-one receptor. In arterial smooth muscle, that increases contraction. In the adrenal gland, it stimulates aldosterone, a hormone that promotes sodium retention and potassium excretion. This system helps maintain circulation, but persistent activation can contribute to hypertension and cardiovascular injury.
+
+How does it reach its target?
+
+After intestinal absorption, lisinopril circulates in its active form. It does not need liver activation.
+
+Much of its relevant target is accessible outside cells. Membrane-bound ACE projects its catalytic domains into the extracellular space, including on the endothelial cells lining blood vessels. Soluble ACE also circulates. We don’t need to send lisinopril into a nucleus to explain this action.
+
+What happens at the target?
+
+ACE is a zinc metallopeptidase. That means it uses a zinc ion to help cut peptide bonds.
+
+Lisinopril binds reversibly in the enzyme’s active-site cleft, where peptide substrates normally bind. Its carboxylate group coordinates the catalytic zinc, while other parts of the molecule interact with surrounding binding pockets. These contacts interfere with productive substrate processing. Lisinopril does not destroy the enzyme or permanently remove its zinc.
+
+Human somatic ACE has two catalytic domains, called the N-domain and C-domain. Lisinopril inhibits both. The C-domain has a particularly important role in angiotensin-two formation, while both domains can break down bradykinin. These are related but distinct substrate reactions.
+
+First, follow angiotensin one. When ACE is inhibited, less of it is converted into angiotensin two through this route. AT-one receptors therefore receive less stimulation.
+
+Now follow bradykinin, a short peptide that can widen vessels and increase their permeability. ACE normally helps inactivate it. Inhibiting ACE slows that breakdown, allowing bradykinin signaling to persist.
+
+How does that action change the system?
+
+Reduced angiotensin-two signaling decreases arteriolar constriction and aldosterone release. The heart faces less resistance to pumping. Reduced aldosterone also changes renal sodium and potassium handling.
+
+There’s a feedback response: angiotensin two normally restrains renin release. Reducing that signal can increase renin activity. So a rising renin measurement does not automatically mean the drug has failed.
+
+Bradykinin can activate endothelial receptors and downstream vasodilator signaling. However, its exact contribution to lisinopril’s therapeutic effect is not settled. We should distinguish a demonstrated biochemical change from proof that this change explains a particular clinical outcome.
+
+What is established, and what is still uncertain?
+
+ACE inhibition is established. The full distribution of its consequences across tissues is more complex.
+
+ACE is not the only enzyme capable of generating angiotensin two. Tissue enzymes such as chymase provide alternative routes. We should therefore say that lisinopril suppresses ACE-dependent production, not that it eliminates all angiotensin two.
+
+ACE also processes other peptides. Recent structural research helps explain its two domains, their movement, and their different substrate preferences. That work supports development of more selective inhibitors; it does not establish additional clinical benefits for lisinopril.
+
+ACE and ACE-two are different enzymes. Lisinopril’s established target is ACE, not ACE-two.
+
+How does the action connect to benefit and harm?
+
+Less vasoconstriction can lower blood pressure, but excessive pressure reduction can cause dizziness or fainting. Less aldosterone can reduce potassium excretion, causing hyperkalemia, meaning high blood potassium.
+
+Angiotensin two also helps maintain pressure within the kidney’s filtering units under some conditions. Blocking that support can impair filtration, especially when kidney perfusion is already compromised. Kidney function and potassium therefore need monitoring.
+
+Reduced breakdown of bradykinin and related peptides is implicated in dry cough and angioedema, a potentially dangerous swelling beneath the skin or mucosal surfaces. The detailed reasons some people develop angioedema remain incompletely understood.
+
+How long does the action last?
+
+In label studies, blood-pressure lowering began around one hour, peaked around six hours, and remained measurable at twenty-four hours, usually with a smaller effect. These are measured pressure responses, not a timetable of enzyme occupancy. Absorbed lisinopril leaves unchanged in urine.
+
+What adult dosing does the label describe?
+
+For hypertension, the usual starting dose is ten milligrams once daily, or five milligrams with a diuretic. The usual range is twenty to forty milligrams daily. Eighty milligrams has been used without greater apparent benefit. Kidney impairment can require a lower start. These are label directions, not a personal dose.
+
+What must not be overlooked?
+
+Do not use lisinopril after ACE-inhibitor-related angioedema or hypersensitivity, or with hereditary or idiopathic angioedema. It is contraindicated with neprilysin inhibitors. Allow at least thirty-six hours between lisinopril and sacubitril–valsartan, in either direction. Do not combine it with aliskiren in diabetes.
+
+Its boxed warning concerns fetal injury and death: discontinue it as soon as pregnancy is detected. Tongue or throat swelling requires emergency care and immediate discontinuation.
+
+What is the take-home mechanism?
+
+One enzyme, several substrates: lisinopril reduces ACE-dependent angiotensin-two formation while slowing bradykinin breakdown. Those connected actions help explain both its therapeutic effects and its hazards.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

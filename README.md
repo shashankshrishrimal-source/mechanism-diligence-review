@@ -1,6 +1,22 @@
 # Mechanism Diligence — review pack
 
-Public pack for an outside review. These files are not on mechanismdiligence.com.
+Public review and video-production pack. These files are not on mechanismdiligence.com.
+
+## Current production package — V2_Scientific
+
+**Grok: [start here](audio-scripts/V2_Scientific/GROK_START_HERE.md).** Begin the Scientific ibuprofen review cut using the new narration and the cinematic ibuprofen v7 visual reference.
+
+- [All 19 Scientific audio scripts](audio-scripts/V2_Scientific/V2_Scientific.md)
+- [Individual spoken-only scripts](audio-scripts/V2_Scientific/scripts/)
+- [Sources, label scope, claim maps and uncertainty](audio-scripts/V2_Scientific/V2_Scientific_Evidence.md)
+- [Voice and production rules](audio-scripts/V2_Scientific/README.md)
+- [Approximate running times](audio-scripts/V2_Scientific/TIMING.md)
+
+V2_Scientific controls the narration, opening/closing, selected product and qualifications. Independent clinical review remains pending. The existing films remain visual/reference material; the root `scripts/` directory contains earlier review scripts. Do not combine older wording or doses with V2. Current-label checks are still required before recording.
+
+---
+
+The sections below preserve the earlier review history and film repairs. Their script priority and proposed filming order apply to that earlier review, not to the V2_Scientific production handoff above.
 
 ## Picture standard
 
