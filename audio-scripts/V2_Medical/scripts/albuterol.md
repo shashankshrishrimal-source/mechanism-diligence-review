@@ -1,0 +1,59 @@
+# Albuterol
+
+Welcome to Mechanism Diligence.
+Let’s talk about albuterol, which is the generic name.
+Ventolin is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+Albuterol is a short-acting beta-two agonist that relaxes airway smooth muscle. We’ll follow Ventolin HFA aerosol, inhaled through the mouth, for adult bronchospasm associated with reversible obstructive airway disease.
+
+## What biological problem does it address?
+
+Bronchospasm is contraction of muscle around an airway. It narrows the airway and limits airflow. Inside muscle cells, calcium-dependent signaling supports myosin phosphorylation, a chemical change that helps the contractile machinery generate force. Inflammation and mucus can obstruct airflow too.
+
+## How does it reach its target?
+
+Aerosol deposited in the airways dissolves and reaches airway tissue. The local effect needs no initial stomach or liver journey. Some drug enters blood, and some deposited in the mouth is swallowed. Device technique affects lung delivery.
+
+## What happens at the target?
+
+Albuterol activates beta-two receptors on the muscle-cell surface. An agonist favors the receptor’s active state. The receptor then engages a stimulatory G protein, which activates adenylyl cyclase.
+
+That enzyme makes cyclic AMP, an intracellular messenger. Cyclic AMP activates protein kinase A and other signaling pathways. Their effects on calcium handling and contractile proteins shift the cell away from sustained contraction.
+
+## How does that action change the system?
+
+The muscle relaxes, widening the airway and allowing more airflow. The drug does not physically push the airway open. Nor must it displace each substance that originally caused contraction.
+
+Several downstream pathways contribute. A single arrow from one enzyme to another does not capture the full relaxation response.
+
+## What is established, and what is still uncertain?
+
+Beta-two activation and cyclic AMP signaling are established. The exact contribution of each downstream pathway in a patient is not known.
+
+Receptor signaling can become less responsive with repeated stimulation. That helps explain desensitization, but it does not diagnose the cause of someone’s worsening breathing.
+
+## How does the action connect to benefit and harm?
+
+Relaxing airway muscle can rapidly improve airflow. The same receptor family acts elsewhere, so systemic exposure can cause tremor, palpitations, and cardiovascular effects. Potassium can shift into cells, lowering blood potassium.
+
+Albuterol does not replace the anti-inflammatory treatment used to control asthma.
+
+## How long does the action last?
+
+Airflow improvement can begin within minutes and last several hours, with variation between people. These measurements are not the same as plasma half-life or a guaranteed period of relief. Metabolism and urinary elimination clear the drug.
+
+## What adult dosing does the label describe?
+
+For adult bronchospasm, the Ventolin HFA label describes two inhalations every four to six hours; one every four hours may suffice for some patients. Each inhalation delivers ninety micrograms of albuterol base from the mouthpiece. More frequent dosing or more inhalations is not recommended. This is label information, not a personal treatment plan.
+
+## What must not be overlooked?
+
+Do not use Ventolin HFA after hypersensitivity to any ingredient. Paradoxical bronchospasm means breathing worsens immediately after use: stop the product and obtain urgent medical attention. Needing more than usual requires reassessment. Excessive use can be fatal.
+
+## What is the take-home mechanism?
+
+Inhaled albuterol activates surface receptors that signal airway muscle to relax. It treats the muscle component of narrowing; it does not resolve every cause of airway obstruction.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

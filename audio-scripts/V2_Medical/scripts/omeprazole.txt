@@ -1,0 +1,61 @@
+Welcome to Mechanism Diligence.
+Let’s talk about omeprazole, which is the generic name.
+Prilosec is a brand name, and it may be the name you already know.
+
+What is this drug?
+
+Omeprazole is a proton pump inhibitor that suppresses stomach acid. We’ll follow prescription oral delayed-release capsules, with adult symptomatic gastroesophageal reflux disease, or GERD, as the dosing example.
+
+What biological problem does it address?
+
+GERD involves stomach contents refluxing into the esophagus. Acid can cause symptoms and injury even without excessive acid production.
+
+Parietal cells in the stomach lining secrete acid. Their hydrogen-potassium ATPase uses energy to transport hydrogen ions, or protons, into the stomach. This is the final pump step of acid secretion.
+
+How does it reach its target?
+
+An enteric coating protects the capsule’s granules from stomach acid. The granules release drug in the intestine. After absorption, blood carries omeprazole back to the stomach lining.
+
+It enters parietal cells and concentrates in their acidic secretory channels, which connect to the stomach cavity. The whole cell interior is not equally acidic.
+
+What happens at the target?
+
+Omeprazole is a prodrug: it needs chemical activation. In the acidic channel, protonation traps the drug and drives its conversion into reactive forms.
+
+These react with cysteine, a sulfur-containing amino acid on the pump. The resulting covalent bond chemically modifies and inhibits the pump. This is persistent target modification, rather than temporary pocket occupancy or neutralization of existing stomach acid.
+
+How does that action change the system?
+
+Fewer working pumps transport fewer protons. Taking this formulation before a meal helps align drug availability with pump activation.
+
+Not all pumps are active together, so suppression builds with repeated doses. Newly available and newly made pumps allow secretion to recover. Persistent inhibition does not mean the stomach permanently loses acid production.
+
+What is established, and what is still uncertain?
+
+Acid-dependent activation and pump inhibition are established. Proposed actions at other proteins have not established additional human therapeutic mechanisms. Associations between long-term use and disease also do not, by themselves, prove causation.
+
+How does the action connect to benefit and harm?
+
+Lower acidity can relieve symptoms and support healing. It does not repair the reflux barrier or eradicate Helicobacter pylori alone.
+
+The same change in acidity can reduce absorption of some medicines. Reduced acid defense may contribute to intestinal infection risk; the label warns about Clostridioides difficile-associated diarrhea.
+
+How long does the action last?
+
+The blood half-life is only about half an hour to one hour, but pump inhibition lasts longer. Acid suppression builds over days; symptom relief and healing follow different timelines.
+
+The liver metabolizes the drug, mainly through CYP2C19. Genetics and interacting medicines can alter exposure. Metabolites leave in urine and bile.
+
+What adult dosing does the label describe?
+
+For adult symptomatic GERD, the prescription capsule label describes twenty milligrams once daily before a meal for up to four weeks. This is one labeled regimen, not a personal dose or a maximum across all indications.
+
+What must not be overlooked?
+
+Omeprazole is contraindicated with rilpivirine-containing products and with hypersensitivity to its ingredients or related substituted benzimidazoles. Avoid combining it with clopidogrel: reduced activation can weaken clopidogrel’s effect. Other important warnings include kidney inflammation, severe skin reactions, and low magnesium.
+
+What is the take-home mechanism?
+
+Omeprazole reaches the stomach lining through blood, becomes active in an acidic compartment, and chemically inhibits the proton pump. Target recovery takes longer than clearance from blood.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

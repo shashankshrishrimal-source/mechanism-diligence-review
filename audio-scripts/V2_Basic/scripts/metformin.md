@@ -1,0 +1,51 @@
+# Metformin
+
+Welcome to Mechanism Diligence.
+Let’s talk about metformin, which is the generic name.
+Glucophage is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Metformin lowers blood sugar in type two diabetes. Glucophage is an older brand name. Here we follow the standard tablet for adults, not the slow-release form.
+
+Insulin is a hormone that helps control blood sugar. In type two diabetes, the body does not respond to it well.
+
+## How does it get to work?
+
+Some drug stays in the gut. Some enters blood and reaches the liver. Proteins help it enter cells. Both the gut and liver matter to its action.
+
+## How does it work?
+
+The liver makes sugar as well as storing it. Metformin can reduce how much sugar the liver makes. It can also help the body respond to insulin and change how the gut handles sugar.
+
+We are still learning the small steps behind these effects. One idea involves how cells make and use energy. Making sugar takes energy, so changes there may slow sugar production. Another involves proteins that sense the cell’s energy supply.
+
+The drug also changes signals from the gut. These actions can work together. No single step has been proved to explain its effects in everyone.
+
+## How can it help and cause harm?
+
+Metformin lowers high blood sugar. It does not directly force the body to release more insulin. Low blood sugar is uncommon when it is used alone. Taking insulin or certain other diabetes drugs changes that risk.
+
+Loose stools and an upset stomach are common. A rare harm is lactic acidosis. This means too much of a certain acid builds up in blood. It can be deadly.
+
+## What is still unclear?
+
+We know metformin works. We do not know how much each action matters in each person.
+
+## How long does it work?
+
+The kidneys remove the drug without changing it. Weak kidney function can let it build up. Blood sugar tests track the response; drug levels alone do not tell the whole story.
+
+## What should we know about doses and risks?
+
+The dose of this standard tablet is chosen for each person. Slow-release tablets have different instructions.
+
+Do not use it with severe kidney problems, allergy to an ingredient, or a blood-acid disorder. Suspected acid buildup needs the drug stopped and urgent hospital care. Some scans and serious illnesses require a pause guided by the care team.
+
+The label advises against use with liver disease or certain diseases of the cells’ energy-making parts. Drinking too much alcohol also raises the acid-buildup risk. Long-term use can lower vitamin B twelve.
+
+## What is the main idea?
+
+Metformin changes sugar handling in several ways. The benefit is clear; the full chain of steps is not.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

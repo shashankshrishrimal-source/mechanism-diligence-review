@@ -1,0 +1,51 @@
+# Amlodipine
+
+Welcome to Mechanism Diligence.
+Let’s talk about amlodipine, which is the generic name.
+Norvasc is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Amlodipine can lower high blood pressure. We’re following tablets taken by mouth for adults. Small blood vessels have muscle in their walls. When that muscle tightens, blood has less room to flow.
+
+## How does it get to work?
+
+The medicine passes from the gut into the blood. Blood carries it to muscle cells in vessel walls. It is already active. Its target sits in the cell’s outer layer.
+
+## How does it work?
+
+Calcium helps tell muscle to tighten. It enters cells through tiny paths called channels. These channels change shape to let calcium through.
+
+Amlodipine binds to a site on one type of channel. It changes how the channel works. It does not act like a cork pushed into a hole.
+
+Less calcium enters through these channels. That reduces the signal to tighten, so vessel muscle relaxes. Blood has more room to flow, and pressure can fall.
+
+Other ways of controlling calcium still work. The drug does not remove all calcium or turn the cell off.
+
+## How can it help and cause harm?
+
+Wider vessels give the heart less force to pump against. This can lower its need for oxygen. The drug can also help relax vessels that feed the heart. These actions help explain its use for some chest pain.
+
+Too much pressure loss can cause dizziness or fainting. Ankles may also swell. Vessels bringing blood into a tissue may widen more than those taking it out. Pressure rises in between and pushes fluid into tissue. So swelling can happen while blood pressure falls.
+
+## What is still unclear?
+
+We know it reduces calcium entry and relaxes vessels. We do not know every step behind its chest-pain benefit. It acts more on vessel muscle than heart muscle, but not only on vessels.
+
+## How long does it work?
+
+It acts gradually and lasts long enough for once-daily use. The liver changes much of it into inactive forms. These changes help the body clear it.
+
+## What should we know about doses and risks?
+
+A clinician chooses the dose for these oral tablets. Blood pressure, age, frailty, and liver health can affect the choice. This film does not choose your dose.
+
+Do not take it if you are allergic to it. A badly narrowed heart valve raises the risk from low pressure.
+
+Starting it or raising the dose can worsen chest pain or cause a heart attack, especially with badly blocked heart arteries. New or worse chest pain needs urgent medical help.
+
+## What is the main idea?
+
+Amlodipine reduces calcium entry into vessel muscle. The muscle relaxes. This can lower blood pressure, but the same changes can cause harm.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

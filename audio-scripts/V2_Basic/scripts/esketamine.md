@@ -1,0 +1,49 @@
+# Esketamine
+
+Welcome to Mechanism Diligence.
+Let’s talk about esketamine, which is the generic name.
+Spravato is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Esketamine can treat depression that has not improved enough with other medicines. This film follows Spravato nasal spray for adults. It is given under supervision in a certified healthcare setting.
+
+## How does it get to work?
+
+The drug passes through the nose lining into blood. Blood carries it to the brain. The spray does not travel straight into one chosen brain cell.
+
+## How does it work?
+
+Brain cells send chemical messages to each other. One message is called glutamate. It can open tiny channels on nerve cells. Charged particles then pass through and change the cell’s activity.
+
+Esketamine blocks one type, called the NMDA channel. It binds inside the channel and reduces that flow.
+
+This changes brain signals. It may also affect how connections between cells change over time. But those later steps are not fully proven in people.
+
+## How can it help and cause harm?
+
+The treatment can ease depression for some people. It can also cause deep sleepiness, slow breathing, and a rise in blood pressure. Some people feel detached from their body or surroundings. That feeling does not prove the treatment is working.
+
+The drug can be misused. Its strongest warning also includes suicidal thoughts and actions. This risk is especially important in young adults. Everyone needs monitoring.
+
+## What is still unclear?
+
+We know the drug blocks NMDA channels. We do not fully know why that helps depression. We cannot say it has been shown to repair a person’s brain connections.
+
+## How long does it work?
+
+Some study groups improved within about a day. That does not promise when one person will improve. The liver breaks down the drug. Time in blood does not tell us how long the benefit lasts.
+
+## What should we know about doses and risks?
+
+This is not a personal dose guide. Treatment needs a care team and a set schedule.
+
+Do not use it with an aneurysm, an abnormal bulge in a blood vessel. Do not use it with abnormal links between arteries and veins, or after bleeding within the brain. Do not use it after an allergy to esketamine, ketamine, or its ingredients.
+
+Staff must watch each person for at least two hours. They check breathing, oxygen levels, and blood pressure, and keep watching until it is safe to leave. Do not drive until the next day after a restful sleep. It has not been shown to prevent suicide. Hospital care may still be needed.
+
+## What is the main idea?
+
+Esketamine blocks a brain channel. It can help some people, but the full reason for that help is still unknown.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

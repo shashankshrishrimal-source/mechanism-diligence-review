@@ -1,0 +1,53 @@
+Welcome to Mechanism Diligence.
+Let’s talk about atorvastatin, which is the generic name.
+Lipitor is a brand name, and it may be the name you already know.
+
+What is this drug?
+
+We’re following single-ingredient oral atorvastatin tablets for adult primary hyperlipidemia, meaning elevated blood lipids. This statin reduces cholesterol synthesis and increases the liver’s removal of LDL particles.
+
+What biological problem does it address?
+
+LDL particles carry cholesterol through blood. When particles become trapped in artery walls, they promote inflammation and plaque formation. Plaque can rupture and trigger a clot. LDL cholesterol measures the cholesterol cargo, not the number of particles. Lowering sustained LDL exposure reduces cardiovascular risk; atorvastatin does not wash plaque out of arteries.
+
+How does it reach its target?
+
+After intestinal absorption, portal blood carries the drug to the liver. Transport proteins move it into liver cells. Atorvastatin is already active; metabolism also produces active derivatives. The enzyme CYP3A4 helps process it. Interactions affecting uptake or metabolism can raise exposure and muscle risk.
+
+What happens at the target?
+
+Atorvastatin reversibly inhibits HMG-CoA reductase, an enzyme that converts HMG-CoA into mevalonate. This is an early controlled step in cholesterol production.
+
+The drug occupies part of the substrate-binding region. A substrate is the molecule an enzyme normally processes. Atorvastatin prevents productive substrate binding without permanently destroying the enzyme. Mevalonate production falls while inhibition is present.
+
+How does that action change the system?
+
+Reduced cholesterol availability activates a sensing response inside the liver cell. A gene-regulating protein called SREBP-2 increases production of LDL receptors.
+
+These receptors reach the cell surface, bind LDL, and bring particles inside. Receptors can return to the surface for another round. This increased clearance is central to the fall in circulating LDL. Changes in production of cholesterol-carrying particles also contribute. Synthesis inhibition and particle clearance are separate steps in one response.
+
+What is established, and what is still uncertain?
+
+The mevalonate pathway also supplies molecules needed for normal cell signaling. Reducing them may affect inflammation and vascular function. How much these additional actions independently explain clinical benefit remains uncertain. They should not be presented as several separately proven treatments.
+
+How does the action connect to benefit and harm?
+
+Lower LDL exposure reduces cardiovascular risk. The same pathway also serves normal tissues, including muscle, but no single mechanism explains all statin muscle toxicity. Severe muscle breakdown can damage kidneys. Rare immune-mediated muscle injury may continue after withdrawal. Blood glucose can also rise.
+
+How long does the action last?
+
+Active derivatives extend enzyme inhibition, and elimination occurs mainly through bile. Drug concentration is not an LDL-response clock. The label permits LDL reassessment as early as four weeks; that is a monitoring interval, not a promise of full protection by that date.
+
+What adult dosing does the label describe?
+
+The starting dose is ten to twenty milligrams once daily, within a ten-to-eighty-milligram range. A forty-milligram start is permitted when more than a forty-five-percent LDL reduction is needed. Interactions can impose lower limits. These are adult label doses, not a personal prescription.
+
+What must not be overlooked?
+
+Do not use atorvastatin with acute liver failure, decompensated cirrhosis, or allergy to an ingredient. Unexplained muscle pain, weakness, or dark urine requires prompt assessment. Pregnancy generally calls for discontinuation and individualized review; it is not listed as an absolute contraindication. Breastfeeding is not recommended during treatment.
+
+What is the take-home mechanism?
+
+Atorvastatin reduces cholesterol synthesis, which prompts the liver to increase LDL clearance. Additional signaling effects remain less clearly linked to clinical outcomes.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

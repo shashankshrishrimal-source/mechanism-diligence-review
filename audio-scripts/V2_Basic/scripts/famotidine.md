@@ -1,0 +1,47 @@
+# Famotidine
+
+Welcome to Mechanism Diligence.
+Let’s talk about famotidine, which is the generic name.
+Pepcid is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+This drug lowers stomach acid. We’ll follow prescription tablets for adults with reflux symptoms. In this case, the food-pipe lining has no erosion, or worn-away areas. Reflux means stomach contents flow back into the food pipe. Some Pepcid products have other drugs added; those are different products.
+
+## How does it get to work?
+
+The tablet dissolves in the gut. Some drug enters blood, which carries it to the stomach lining. It reaches the outside of cells that make acid.
+
+## How does it work?
+
+A chemical message called histamine tells these cells to make acid. It attaches to a protein called the H-two receptor. A receptor receives a message and passes a signal into the cell.
+
+That signal helps turn on tiny acid pumps. The drug takes the place where histamine would attach. It blocks the message. The cell gets less of the signal to make acid.
+
+The drug does not destroy histamine. It does not directly stop the pumps or remove acid already in the stomach. Other signals can still tell the cell to make acid.
+
+## How can it help and cause harm?
+
+Less acid can ease reflux symptoms. Reflux can happen even when acid production is normal.
+
+But less acid can change how well other medicines enter the body. If famotidine builds up, it can also cause confusion or heart rhythm problems. These risks matter more when the kidneys do not work well.
+
+## What is still unclear?
+
+Blocking the histamine message is well understood. With repeated use, the acid-lowering effect can weaken. We do not know the full reason for that change.
+
+## How long does it work?
+
+The effect on acid can begin within an hour and last several hours. This does not promise how long symptoms will improve. The kidneys remove much of the drug. Kidney problems can let it stay in the body longer.
+
+## What should we know about doses and risks?
+
+This is not a personal dose guide. The dose depends on the condition and kidney function. Poor kidney function may require a smaller dose or more time between doses.
+
+Do not use it after a serious allergy to famotidine or another H-two blocker. These are medicines that block the same acid signal. Feeling better does not rule out stomach cancer. Symptoms that return still need a medical check.
+
+## What is the main idea?
+
+This drug blocks one message that tells stomach cells to make acid. It lowers the signal rather than removing acid that is already there.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

@@ -1,0 +1,61 @@
+# Amlodipine
+
+Welcome to Mechanism Diligence.
+Let’s talk about amlodipine, which is the generic name.
+Norvasc is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following oral amlodipine besylate tablets for adult hypertension. Amlodipine is a dihydropyridine calcium-channel blocker. It mainly reduces calcium entry through L-type channels in arterial smooth muscle.
+
+## What biological problem does it address?
+
+Small arteries regulate resistance through muscle contraction. Tighter muscle narrows the vessel, increasing resistance. Calcium entry links the cell membrane’s electrical activity to contraction. The issue is calcium movement into cells, not excess calcium in the whole body.
+
+## How does it reach its target?
+
+After absorption, blood carries active amlodipine to smooth-muscle cell membranes. It needs no liver activation. The liver later converts much of it into inactive products.
+
+## What happens at the target?
+
+L-type calcium channels open in response to changes in membrane voltage. Amlodipine binds beside the channel’s central pathway and changes its behavior. This is allosteric inhibition, rather than a cork plugging the pore.
+
+Dihydropyridines favor particular channel states, especially inactivated states that cannot currently conduct calcium.
+
+Normally, calcium binds a sensing protein called calmodulin. Together they activate an enzyme that helps the muscle’s contractile proteins generate force. Less calcium entry reduces that drive. Other calcium sources remain; the cell is not switched off.
+
+## How does that action change the system?
+
+Arterioles relax, resistance falls, and the heart pumps against less afterload: resistance to ejecting blood.
+
+Lower afterload can reduce cardiac oxygen demand. Relaxation of coronary arteries can also counter spasm. These effects help explain angina treatment. At usual doses, vascular effects predominate over cardiac effects. Amlodipine is not interchangeable with verapamil or diltiazem.
+
+## What is established, and what is still uncertain?
+
+Calcium-channel inhibition and arterial relaxation are established. Vascular preference is relative, not exclusive. The label notes that the precise mechanisms of angina relief are not fully defined. Additional cellular findings do not establish extra clinical benefits.
+
+## How does the action connect to benefit and harm?
+
+The same arterial relaxation can cause flushing, dizziness, or excessive pressure reduction.
+
+Ankle edema follows a pressure mismatch. Small arteries entering a capillary bed may widen more than the veins leaving it. Capillary pressure rises, moving fluid into tissue even while overall arterial pressure falls. This dose-related swelling is not simply total-body salt and water overload.
+
+## How long does the action last?
+
+Amlodipine acts gradually and supports once-daily control. Its plasma half-life is roughly thirty to fifty hours. Steady drug concentrations develop after seven to eight days of daily dosing. Neither number is an exact timetable for clinical benefit.
+
+## What adult dosing does the label describe?
+
+For hypertension, the usual start is five milligrams once daily, with a maximum of ten milligrams daily. Small, frail, or older adults, and people with liver impairment, may start at two-point-five milligrams. These are label directions, not a personal dose.
+
+## What must not be overlooked?
+
+Do not use amlodipine with known hypersensitivity to it. Low blood pressure can cause symptoms, especially with severe aortic stenosis, a narrowing of the heart’s outflow valve.
+
+Starting treatment or increasing the dose can worsen angina or precipitate a heart attack, particularly with severe obstructive coronary disease. New or worsening chest pain needs urgent assessment.
+
+## What is the take-home mechanism?
+
+Amlodipine changes calcium-channel behavior. Less calcium-driven contraction relaxes arteries and lowers resistance. Following the same vascular action also explains low pressure and ankle swelling.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

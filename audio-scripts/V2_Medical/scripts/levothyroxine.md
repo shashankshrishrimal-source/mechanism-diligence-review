@@ -1,0 +1,55 @@
+# Levothyroxine
+
+Welcome to Mechanism Diligence.
+Let’s talk about levothyroxine, which is the generic name.
+Synthroid is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following oral levothyroxine sodium tablets for adult thyroid-hormone replacement. Levothyroxine is synthetic T4, chemically equivalent to natural thyroxine. It replaces hormone; it does not repair the thyroid or stop an autoimmune attack.
+
+## What biological problem does it address?
+
+Thyroid hormones regulate gene activity, heat production, and nutrient use. Deficiency can slow many body functions. Primary hypothyroidism starts in the gland. Central hypothyroidism reflects inadequate stimulation from upstream control centers, so thyroid-stimulating hormone, or TSH, is not a reliable dosing guide there.
+
+## How does it reach its target?
+
+The tablet dissolves, and absorption occurs in the small intestine. Food and interacting drugs can alter that absorption. Most T4 in blood is bound to carrier proteins. The unbound fraction is available for transport into tissues, where membrane proteins regulate cell entry.
+
+## What happens at the target?
+
+T4 contains four iodine atoms. Removing a specific iodine produces T3, which drives most classical thyroid-receptor activity. Enzymes called deiodinases control this conversion. Other removal steps inactivate hormone instead; removing iodine does not always increase activity.
+
+T3 binds thyroid-hormone receptors inside cells. These receptors interact with DNA and proteins that control gene reading. For many genes, hormone binding shifts that machinery toward increased RNA and protein production. Other genes are suppressed. The action is selective, not a switch that turns every metabolic gene on.
+
+## How does that action change the system?
+
+Tissues differ in hormone transport, conversion, receptors, and gene-control partners. That creates local control over the response. Heart rate and contractility, heat production, and lipid handling can all change.
+
+Hormone action also feeds back to the pituitary and hypothalamus, reducing signals for further thyroid output. In primary disease, TSH helps track that feedback. In central disease, clinical assessment and free T4 guide replacement instead. A single blood test does not measure every tissue’s response directly.
+
+## What is established, and what is still uncertain?
+
+Transport, conversion, and nuclear-receptor action are established. Faster actions outside this pathway have less clearly defined roles in routine replacement. Persistent symptoms despite a reference-range TSH have several possible causes; they do not automatically prove that more hormone is needed.
+
+## How does the action connect to benefit and harm?
+
+Replacement restores deficient signaling. Excess treatment drives the same systems too strongly, increasing risks of rapid or irregular heart rhythms and bone loss. Too little treatment leaves deficiency unresolved. This balance is particularly important with cardiovascular disease.
+
+## How long does the action last?
+
+T4 persists for days, and gene responses take time. The label says peak therapeutic effect may take four to six weeks. That is not a guaranteed symptom timeline or a reason to ignore acute signs of excess treatment.
+
+## What adult dosing does the label describe?
+
+A typical full replacement dose is one point six micrograms per kilogram daily, with lower starts for older adults and people at cardiac risk. Dosing is individualized; no universal adult maximum is specified. Tablets are taken thirty to sixty minutes before breakfast and at least four hours apart from drugs known to interfere with absorption. These are label principles, not a personal dose.
+
+## What must not be overlooked?
+
+Do not use it with uncorrected adrenal insufficiency; replacement can trigger adrenal crisis. The boxed warning prohibits use for obesity or weight loss, and excessive doses can be life-threatening. Oral tablets are not treatment for myxedema coma, a severe thyroid emergency.
+
+## What is the take-home mechanism?
+
+Levothyroxine supplies T4. Tissue conversion produces active T3, which changes gene regulation and restores hormone signaling.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

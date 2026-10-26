@@ -1,0 +1,49 @@
+# Rosuvastatin
+
+Welcome to Mechanism Diligence.
+Let’s talk about rosuvastatin, which is the generic name.
+Crestor is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Rosuvastatin lowers cholesterol carried in blood. We’re following tablets taken by mouth for adults with high cholesterol. The tablets contain rosuvastatin alone, not a mix of drugs.
+
+## How does it get to work?
+
+The medicine passes from the gut into the blood. It reaches the liver, where special proteins help it enter cells. Proteins are small working parts of the body. The drug is already active.
+
+## How does it work?
+
+The liver makes cholesterol through a series of steps. One protein helps with an early step. Rosuvastatin binds to its working part and slows that step. It can let go again. It does not destroy the protein.
+
+The liver cell now has less cholesterol. It responds by making more proteins that catch LDL from blood. LDL is a tiny package that carries cholesterol. The catcher proteins bring those packages inside the cell. Many catchers return to the surface and work again.
+
+This is how the drug lowers LDL. It changes what the liver does. It does not directly pull fat out of blood vessels.
+
+## How can it help and cause harm?
+
+LDL can get trapped in artery walls. Over time, this helps build patches called plaques. A plaque can block flow or trigger a clot if it breaks open. Lower LDL means less exposure over time. The drug does not make every plaque vanish.
+
+Muscle injury can occur, including rare, serious muscle breakdown. Liver injury and higher blood sugar are also risks. A muscle ache alone does not prove muscle damage, but new symptoms should not be ignored.
+
+## What is still unclear?
+
+We know the main chain: less cholesterol made, then more LDL removed. Other cell signals change too. We do not know how much those changes add to preventing heart attacks or strokes. We also do not fully know why muscle injury happens.
+
+## How long does it work?
+
+With continued treatment, the largest LDL drop is usually reached by about four weeks. The time the drug stays in blood is not the length of heart protection.
+
+## What should we know about doses and risks?
+
+A clinician chooses the dose for these tablets. Cholesterol levels, kidney health, other drugs, and other patient factors matter. This film does not choose your dose.
+
+Do not use it with sudden liver failure, or severe liver scarring that has stopped the liver working properly. Do not use it if you are allergic to its ingredients. New muscle weakness or dark urine needs prompt medical care.
+
+Most people need to stop it if they become pregnant. Contact your clinician promptly to review the plan. Breastfeeding is not recommended during treatment.
+
+## What is the main idea?
+
+Rosuvastatin slows cholesterol production in the liver. The liver then catches more LDL from blood. That response is the key to how it works.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

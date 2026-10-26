@@ -1,0 +1,57 @@
+# Sertraline
+
+Welcome to Mechanism Diligence.
+Let’s talk about sertraline, which is the generic name.
+Zoloft is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+Sertraline is a selective serotonin reuptake inhibitor, or SSRI. We’ll follow oral tablets for adult major depressive disorder. Other approved conditions can require different starting regimens.
+
+## What biological problem does it address?
+
+Depression affects mood, interest, thinking, and daily function. It is not established to be a simple serotonin deficiency. Serotonin participates in brain communication, but a drug target does not by itself identify the cause of the illness.
+
+## How does it reach its target?
+
+After oral absorption, blood delivers sertraline to the brain. Its main target is the serotonin transporter, SERT, in neuronal membranes. A transporter moves molecules across a membrane; it is not a serotonin receptor.
+
+## What happens at the target?
+
+Normally, SERT takes released serotonin back into serotonin-producing neurons. The transporter changes shape to expose its binding region first outward, then inward, allowing uptake.
+
+Sertraline occupies the central binding region and favors an outward-facing state. This interrupts the transport cycle. Inhibition is reversible: the drug does not destroy SERT, make serotonin, or force stored serotonin out of neurons.
+
+## How does that action change the system?
+
+Reduced uptake changes the amount and persistence of serotonin outside neurons. Different serotonin receptors can increase or decrease neuronal activity, depending on their location and function.
+
+Feedback, receptor regulation, and network responses may adapt over time. These adaptations offer possible links to later clinical improvement, rather than one completely established chain in every patient.
+
+## What is established, and what is still uncertain?
+
+SERT inhibition is established; the complete antidepressant mechanism remains unresolved. Research on proteins supporting neural plasticity, the ability of connections to change, does not establish that one measurable protein change is necessary for an individual’s response.
+
+## How does the action connect to benefit and harm?
+
+Serotonin also affects gastrointestinal and sexual function, helping explain nausea, diarrhea, and sexual dysfunction.
+
+Platelets use SERT too. Reduced platelet serotonin uptake is a proposed contributor to bleeding risk, especially with other medicines affecting hemostasis. It is not direct inhibition of a clotting enzyme. Excess serotonergic activity can cause life-threatening serotonin syndrome.
+
+## How long does the action last?
+
+The approximately twenty-six-hour blood half-life and roughly one-week approach to steady exposure are different from clinical response, which generally develops over weeks. The liver metabolizes sertraline. Drug concentration alone does not measure recovery.
+
+## What adult dosing does the label describe?
+
+For adult major depression, the tablet label starts at fifty milligrams daily. Increases, if needed and tolerated, are twenty-five to fifty milligrams no more often than weekly, up to two hundred milligrams daily. Mild hepatic impairment requires half the usual starting and maximum doses; moderate or severe impairment use is not recommended. This is label information, not a personal dose.
+
+## What must not be overlooked?
+
+The boxed warning concerns increased suicidal thoughts and behaviors in pediatric and young adult patients; all patients need monitoring. Do not combine sertraline with pimozide or MAO inhibitors, including linezolid and intravenous methylene blue. Switching to or from an MAOI antidepressant requires at least fourteen days between drugs. Hypersensitivity to sertraline or ingredients also precludes use. Screen for bipolar disorder and reduce gradually when discontinuing.
+
+## What is the take-home mechanism?
+
+Sertraline reversibly blocks serotonin uptake. Signaling changes can support improvement, but the full human therapeutic mechanism is unknown. It is not a proven correction of a simple chemical shortage.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

@@ -1,0 +1,57 @@
+# Ibuprofen
+
+Welcome to Mechanism Diligence.
+Let’s talk about ibuprofen, which is the generic name.
+Advil and Motrin are brand names, and they may be the names you already know.
+
+## What is this drug?
+
+Ibuprofen is a nonsteroidal anti-inflammatory drug, or NSAID. It reduces pain, fever, and inflammation. We’ll follow an immediate-release oral tablet, using the adult two-hundred-milligram Advil label for dosing.
+
+## What biological problem does it address?
+
+Injured tissue makes signals that sensitize pain-sensing nerves. One is prostaglandin E two. Related signals also help raise the brain’s temperature set point during fever.
+
+Two enzymes, COX one and COX two, begin making these signals from the fatty acid arachidonic acid.
+
+## How does it reach its target?
+
+After absorption from the digestive tract, blood carries ibuprofen to tissues, including the nervous system. Much travels attached to the blood protein albumin. The unbound fraction can interact with targets. Delivery is systemic, rather than confined to the painful site.
+
+## What happens at the target?
+
+Without the drug, arachidonic acid enters a channel in COX and is converted through intermediates into prostaglandin H two. Other enzymes use that intermediate to make tissue-specific signals.
+
+Ibuprofen occupies the COX channel and interferes with productive access by arachidonic acid. Its binding is reversible: the molecule can leave. It does not permanently attach a chemical group to the enzyme, as aspirin does. Less substrate is converted, reducing downstream prostanoid production.
+
+## How does that action change the system?
+
+Lower prostaglandin signaling reduces pain sensitization, fever, and inflammation. But COX products also support stomach protection, kidney blood flow, and platelet function. Both COX types have normal physiological roles; neither is simply a harmful enzyme to eliminate.
+
+## What is established, and what is still uncertain?
+
+Reversible COX inhibition is established. Additional cellular actions have been studied, but their independent contribution to ordinary pain relief in humans remains uncertain. Target binding does not predict an individual’s degree of relief.
+
+## How does the action connect to benefit and harm?
+
+The same reduction in prostaglandins can relieve pain and weaken stomach protection or kidney function. Effects on vascular signals and fluid balance contribute to cardiovascular risk.
+
+Reversible platelet inhibition can increase bleeding. Ibuprofen is not a replacement for prescribed aspirin and can interfere with aspirin’s antiplatelet action.
+
+## How long does the action last?
+
+The liver metabolizes ibuprofen, and the kidneys remove the metabolites. Its roughly two-hour plasma half-life describes blood concentration, not the duration of pain relief. Dose, formulation, food, and the condition affect the time course.
+
+## What adult dosing does the label describe?
+
+These are adult label directions, not a personal dose. For the two-hundred-milligram tablet, the label describes one tablet every four to six hours while symptoms persist. If one is insufficient, two may be used. Do not exceed six tablets, or twelve hundred milligrams, in twenty-four hours unless a doctor directs otherwise.
+
+## What must not be overlooked?
+
+Do not use it after an allergic reaction to any pain reliever or fever reducer, or right before or after heart surgery. Serious bleeding, heart attack, stroke, and kidney injury are important risks. At twenty weeks of pregnancy or later, do not use it unless specifically directed by a doctor.
+
+## What is the take-home mechanism?
+
+Ibuprofen temporarily inhibits COX. It reduces signals that amplify pain, but also signals that protect normal tissues. That shared pathway connects its benefit with important harms.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

@@ -1,22 +1,24 @@
-# Mechanism Diligence — review pack
+# Mechanism Diligence — review and production pack
 
-Public review and video-production pack. These files are not on mechanismdiligence.com.
+Public video-production files. These files are not a website deployment.
 
-## Current production package — V2_Scientific
+## Current scripts — one medicine, three depths
 
-**Grok: [start here](audio-scripts/V2_Scientific/GROK_START_HERE.md).** Begin the Scientific ibuprofen review cut using the new narration and the cinematic ibuprofen v7 visual reference.
+**Grok: [start here](audio-scripts/GROK_START_HERE.md).** All 19 medicines now have three English versions. For the new adaptations, begin with ibuprofen Basic, then Medical, using cinematic ibuprofen v7 as the picture reference.
 
-- [All 19 Scientific audio scripts](audio-scripts/V2_Scientific/V2_Scientific.md)
-- [Individual spoken-only scripts](audio-scripts/V2_Scientific/scripts/)
-- [Sources, label scope, claim maps and uncertainty](audio-scripts/V2_Scientific/V2_Scientific_Evidence.md)
-- [Voice and production rules](audio-scripts/V2_Scientific/README.md)
-- [Approximate running times](audio-scripts/V2_Scientific/TIMING.md)
+| Level | Suggested audience | Complete scripts |
+|---|---|---|
+| **Basic (Non-Medical terms)** | Patients, caregivers, general viewers | [V2_Basic](audio-scripts/V2_Basic/V2_Basic.md) — shortest, approximately fifth-grade comprehension |
+| **Medical** | Clinicians, pharmacists, nurses | [V2_Medical](audio-scripts/V2_Medical/V2_Medical.md) — concise clinical mechanisms |
+| **Scientific** | Scientists, chemists, students | [V2_Scientific](audio-scripts/V2_Scientific/V2_Scientific.md) — detailed mechanism and evidence |
 
-V2_Scientific controls the narration, opening/closing, selected product and qualifications. Independent clinical review remains pending. The existing films remain visual/reference material; the root `scripts/` directory contains earlier review scripts. Do not combine older wording or doses with V2. Current-label checks are still required before recording.
+Choose the level's `.txt` file in its `scripts/` folder for recording. [Browse all files](audio-scripts/README.md), [source and adaptation records](audio-scripts/V2_Adaptation_Evidence.md), and [language/length checks](audio-scripts/READABILITY.md). Label-linked clarifications in the adaptation record apply before filming the affected passages at any level, including metformin.
+
+The selected V2 script controls narration, opening/closing, route, formulation and qualifications. **Independent clinical review remains pending.** Recheck the exact current US label before recording. The Scientific source files, original root scripts and earlier films remain preserved; do not mix older doses or wording into a new cut.
 
 ---
 
-The sections below preserve the earlier review history and film repairs. Their script priority and proposed filming order apply to that earlier review, not to the V2_Scientific production handoff above.
+The sections below preserve earlier review history and film repairs. Their script priority and proposed filming order belong to that earlier review, not the current three-depth production guide.
 
 ## Picture standard
 

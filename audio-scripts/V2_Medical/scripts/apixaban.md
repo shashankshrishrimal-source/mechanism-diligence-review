@@ -1,0 +1,67 @@
+# Apixaban
+
+Welcome to Mechanism Diligence.
+Let’s talk about apixaban, which is the generic name.
+Eliquis is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following adult oral apixaban tablets for stroke prevention in nonvalvular atrial fibrillation. Apixaban is an anticoagulant: it directly inhibits activated factor ten, pronounced factor ten-A. It does not correct the abnormal heart rhythm.
+
+## What biological problem does it address?
+
+Clotting enzymes generate thrombin, which produces fibrin, the mesh that stabilizes a clot. This normally helps seal injured vessels.
+
+In atrial fibrillation, ineffective contraction of the upper chambers can allow blood to stagnate and form harmful clots. A clot reaching a brain artery can cause a stroke.
+
+## How does it reach its target?
+
+Absorbed apixaban reaches the blood as an active molecule. No activation step is required. Its target works outside cells, in blood and at clotting surfaces.
+
+## What happens at the target?
+
+Factor ten-A works with activated factor five, calcium, and a phospholipid surface. This assembly, called prothrombinase, rapidly converts prothrombin to thrombin.
+
+Apixaban binds reversibly within factor ten-A’s active site, interfering with productive substrate access. It does not destroy the enzyme or attach permanently. It inhibits free and clot-bound factor ten-A and prothrombinase activity, without needing antithrombin as a partner.
+
+The result is less thrombin generation. Apixaban does not directly inhibit thrombin already present.
+
+## How does that action change the system?
+
+Less thrombin means less fibrin formation and less amplification of coagulation. Thrombin-driven platelet activation can also fall, although apixaban does not directly block platelet receptors.
+
+This limits clot formation and growth. It does not cut fibrin or directly dissolve an existing clot. The body’s own clot-breakdown system acts separately; resolution is neither immediate nor guaranteed.
+
+## What is established, and what is still uncertain?
+
+Factor-ten-A inhibition is established. Researchers also study effects on inflammation-related signaling, but an independent clinical benefit from those effects is not established. Apixaban should not be described as a proven anti-inflammatory treatment.
+
+## How does the action connect to benefit and harm?
+
+The same reduction in thrombin that limits harmful clots weakens normal bleeding control. Bleeding can be severe or fatal. The drug cannot distinguish a harmful clot from a needed wound seal.
+
+Drug interactions can change exposure. Strong combined effects on CYP-three-A-four metabolism and the P-glycoprotein transporter can increase bleeding risk or reduce protection.
+
+## How long does the action last?
+
+The plasma half-life is about twelve hours, but the effect can persist for at least twenty-four hours after the last dose. Kidney clearance, metabolism, and nonrenal excretion all contribute. Half-life is not a personal timetable for stopping before a procedure.
+
+## What adult dosing does the label describe?
+
+For nonvalvular atrial fibrillation, the usual dose is five milligrams twice daily. It becomes two-point-five milligrams twice daily when at least two criteria apply: age eighty or older, weight sixty kilograms or less, or serum creatinine one-point-five milligrams per deciliter or higher.
+
+Interactions add separate rules. Other indications use different regimens. These are label directions, not a personal dose.
+
+## What must not be overlooked?
+
+Apixaban is contraindicated with active pathological bleeding or severe hypersensitivity to it.
+
+Both boxed warnings matter: premature discontinuation increases clotting risk, and bleeding around spinal or epidural procedures can cause permanent paralysis. Interruption requires a clinician-directed plan.
+
+Routine I-N-R testing cannot reliably measure its effect. A normal result does not prove apixaban is absent.
+
+## What is the take-home mechanism?
+
+Apixaban blocks factor ten-A upstream of thrombin and fibrin. It reduces clot formation and growth, but does not directly dissolve clots. The same action creates bleeding risk.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

@@ -1,0 +1,51 @@
+# Atorvastatin
+
+Welcome to Mechanism Diligence.
+Let’s talk about atorvastatin, which is the generic name.
+Lipitor is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Atorvastatin lowers LDL cholesterol in the blood. We’re following a tablet taken by mouth by an adult.
+
+LDL particles carry cholesterol, a waxy substance. When too many become trapped in artery walls, buildup can form. Arteries are blood vessels. This buildup can lead to a harmful blood clot.
+
+## How does it get to work?
+
+The drug passes from the gut into the blood. It then enters liver cells, where it does much of its work.
+
+## How does it work?
+
+Liver cells make cholesterol through a series of steps. Atorvastatin blocks a protein used in one early step. The protein’s name is HMG-CoA reductase. It helps a chemical change take place.
+
+The drug binds where the starting material needs to fit. Less material can be changed, so less cholesterol gets made. The drug can let go again. It does not destroy the protein.
+
+The liver senses the drop in its cholesterol supply. It makes more proteins that catch LDL from the blood. They bring LDL into liver cells for processing. That is a key reason the blood LDL level falls.
+
+## How can it help and cause harm?
+
+Less LDL in the blood can lower the risk of heart attacks and strokes. The drug does not scrub blood vessels clean.
+
+The pathway it blocks also serves other cells. Muscle injury can occur. Severe muscle breakdown can harm the kidneys. We do not know one cause for every muscle problem. Blood sugar can also rise.
+
+## What is still unclear?
+
+The drug may also change signals linked to swelling and damage. We do not know how much these changes add to its benefit.
+
+## How long does it work?
+
+The liver makes forms of the drug that also work. Most leaves through bile, a fluid sent into the gut. Blood tests track LDL changes. A drug level alone cannot tell how well it protects someone.
+
+## What should we know about doses and risks?
+
+The dose of this tablet depends on the person and other drugs.
+
+Do not use it with sudden liver failure or advanced liver scarring that has caused liver failure. Do not use it if allergic to an ingredient. New muscle pain, weakness, or dark urine needs prompt medical care.
+
+Pregnancy usually means stopping treatment with medical guidance. Breastfeeding is not recommended while taking it.
+
+## What is the main idea?
+
+Atorvastatin slows cholesterol production. The liver then clears more LDL from the blood.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

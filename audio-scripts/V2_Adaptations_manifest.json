@@ -1,0 +1,473 @@
+{
+  "package": "V2_Medical_and_Basic",
+  "date": "2026-10-25",
+  "clinical_review_status": "pending",
+  "script_count": 38,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "e1b0519e69804ac8819ec96b722d7c93742de858f177ad51f125fc8b5a88c2b6",
+      "bytes": 81
+    },
+    {
+      "path": "GROK_START_HERE.md",
+      "sha256": "ca0ff597325c37f084d97339f9a9afc71c22a6a9060286ed0c6e0dcb729dfc19",
+      "bytes": 6150
+    },
+    {
+      "path": "READABILITY.md",
+      "sha256": "94f0a8d32a97e5a4e950727fa548eee151b86bfd8401433ef0522edbf5db3f33",
+      "bytes": 2556
+    },
+    {
+      "path": "README.md",
+      "sha256": "d577cb470b50e1fbc57ccb7fd0813ae48b6b535534322e8e110bd201231ed9fb",
+      "bytes": 2069
+    },
+    {
+      "path": "V2_Adaptation_Evidence.md",
+      "sha256": "1a2095ac61f39d1427a58d432967ffc0d62a3dbcae1810e0a1ac65edb4a62159",
+      "bytes": 78179
+    },
+    {
+      "path": "V2_Basic/.gitattributes",
+      "sha256": "ca41c0dbd2790b53212a7af48078742b3faa84330a1f2f662da7086d8acec361",
+      "bytes": 67
+    },
+    {
+      "path": "V2_Basic/EVIDENCE.md",
+      "sha256": "b42aed2031bff94a2883930b7aa317ea60065f673d5733bcf3151bb9c8be53d5",
+      "bytes": 2150
+    },
+    {
+      "path": "V2_Basic/manifest.json",
+      "sha256": "b4d27cb9d12fada61633a751575fd94d01088f3134bff2c4f9c0848307467352",
+      "bytes": 14227
+    },
+    {
+      "path": "V2_Basic/README.md",
+      "sha256": "a9715fc1179cfc2f3e2e6d6cf770a77bda951812adf1d10ff960af781d0da981",
+      "bytes": 3984
+    },
+    {
+      "path": "V2_Basic/scripts/adalimumab.md",
+      "sha256": "eb736c21eb40e5c47b983813153041c45a129219bbd7cb4c2845672fc469ae47",
+      "bytes": 2780
+    },
+    {
+      "path": "V2_Basic/scripts/adalimumab.txt",
+      "sha256": "f0f0e3a6015de3b70d9ffd1c85f1f18c08f74af09d1045fa5c9fa5be53169d71",
+      "bytes": 2742
+    },
+    {
+      "path": "V2_Basic/scripts/albuterol.md",
+      "sha256": "7c449aa6c19cdca1471f74bb6874647fd43a9bdf68bae1b3078215b5ca98ba74",
+      "bytes": 2687
+    },
+    {
+      "path": "V2_Basic/scripts/albuterol.txt",
+      "sha256": "8e3db65a414a0662cad1e9a76ecc3e508c68ee28d90def454cb49d89bff7252b",
+      "bytes": 2650
+    },
+    {
+      "path": "V2_Basic/scripts/amlodipine.md",
+      "sha256": "638c85a67d71fe319bb1731024dca483a945cf585af34857eb3576d9f40071b7",
+      "bytes": 2911
+    },
+    {
+      "path": "V2_Basic/scripts/amlodipine.txt",
+      "sha256": "8c01460275d97cf3770fb4d9e2ef837b64baa446ae24664db36bddf3830def6b",
+      "bytes": 2873
+    },
+    {
+      "path": "V2_Basic/scripts/apixaban.md",
+      "sha256": "04d13fb91b17bd68ca0f9ac762d4e63afcf09bab908a90b38b807ea44c75f4d8",
+      "bytes": 2933
+    },
+    {
+      "path": "V2_Basic/scripts/apixaban.txt",
+      "sha256": "616434a77994e44a4d7ef6aa48da9e084b9a50de0d765d83a684cacf935e1729",
+      "bytes": 2897
+    },
+    {
+      "path": "V2_Basic/scripts/atorvastatin.md",
+      "sha256": "03d04037c61dff3464bc7025661c4a0d6a4c7ff5b775e720847c028c063da736",
+      "bytes": 2706
+    },
+    {
+      "path": "V2_Basic/scripts/atorvastatin.txt",
+      "sha256": "6fe761a7263c163156aed0dccef63ee816c1c3225512a5c78d7fe1f774373f56",
+      "bytes": 2666
+    },
+    {
+      "path": "V2_Basic/scripts/empagliflozin.md",
+      "sha256": "14d1897bc91af051c003311484f123f268273e6e24badf281a3dd5a99fcd2424",
+      "bytes": 2782
+    },
+    {
+      "path": "V2_Basic/scripts/empagliflozin.txt",
+      "sha256": "0267d3d75307897e449cef959c6c09466e781c187cc9333d9e857888682f89be",
+      "bytes": 2741
+    },
+    {
+      "path": "V2_Basic/scripts/esketamine.md",
+      "sha256": "69fe9ad5a1df0289a762f2a0b73f87525c2b52ba31a1d1a98a8c6fec238c20d9",
+      "bytes": 2905
+    },
+    {
+      "path": "V2_Basic/scripts/esketamine.txt",
+      "sha256": "dbe0c4c2c2f006469e09a2c2ed26027e2ef4ec94b2d5d3848546c8329f895e5d",
+      "bytes": 2867
+    },
+    {
+      "path": "V2_Basic/scripts/ezetimibe.md",
+      "sha256": "736b3f3d6809baf87e4ccaa19519da156880427dd1d25ac9868a383e6ce0bceb",
+      "bytes": 2713
+    },
+    {
+      "path": "V2_Basic/scripts/ezetimibe.txt",
+      "sha256": "2a2ce60949d7c929a05eebc09ffac66f63bcaf52ecc2a5e83ddde336603113cf",
+      "bytes": 2676
+    },
+    {
+      "path": "V2_Basic/scripts/famotidine.md",
+      "sha256": "efd6fb2a23566fef04a55b50972e705ee61e45f4fdb6d32ae6f31b1dae0add7a",
+      "bytes": 2780
+    },
+    {
+      "path": "V2_Basic/scripts/famotidine.txt",
+      "sha256": "d50b8bffd206dcd0ef9994b357d7bf5a776fa6180bf44aef9994efc5d0f4d73c",
+      "bytes": 2742
+    },
+    {
+      "path": "V2_Basic/scripts/ibuprofen.md",
+      "sha256": "e1b70864a4254eaf90088926a8882b3cf1e70caf2db60e783ada736f675ba365",
+      "bytes": 2589
+    },
+    {
+      "path": "V2_Basic/scripts/ibuprofen.txt",
+      "sha256": "6632379df2099b01f63649c8a3fb6313e40e754d542e2b3601371d46ca5850f4",
+      "bytes": 2552
+    },
+    {
+      "path": "V2_Basic/scripts/levothyroxine.md",
+      "sha256": "66f985c719d6b7bce893ca486cd3cee0cccb830da0e7b38399a5d4952a2efda6",
+      "bytes": 2628
+    },
+    {
+      "path": "V2_Basic/scripts/levothyroxine.txt",
+      "sha256": "1ed0d3b9c37b2d085c31a953af7ee144b9fa05b375156d6439ed6ca980686741",
+      "bytes": 2587
+    },
+    {
+      "path": "V2_Basic/scripts/lisinopril.md",
+      "sha256": "27baf90ffb287b6220195d2be13d7fd2dc9e44000f4d101e756a606ec86f02d4",
+      "bytes": 2845
+    },
+    {
+      "path": "V2_Basic/scripts/lisinopril.txt",
+      "sha256": "eaede18ef7848dec39c4ef1860241a11bcf62d9739fc4d5a0850966a33acd5ea",
+      "bytes": 2807
+    },
+    {
+      "path": "V2_Basic/scripts/losartan.md",
+      "sha256": "2dfb2b5a99c78a071bd2112418c761ea03348f2b900e51330d739f054cb6a10e",
+      "bytes": 3025
+    },
+    {
+      "path": "V2_Basic/scripts/losartan.txt",
+      "sha256": "83be25cfa7c60c088544394d3be02f3f72a349e3708417dbded02fe937236c5f",
+      "bytes": 2989
+    },
+    {
+      "path": "V2_Basic/scripts/metformin.md",
+      "sha256": "3b5f8a284ba6e607b9ed6943e344d0ca8091fb78209d670b6ccb04f079fa6b24",
+      "bytes": 2901
+    },
+    {
+      "path": "V2_Basic/scripts/metformin.txt",
+      "sha256": "ea58bd553cfc9e76989bc26e06466053f49d8fcd1f83b691dc5cb243c35ca273",
+      "bytes": 2864
+    },
+    {
+      "path": "V2_Basic/scripts/metoprolol.md",
+      "sha256": "ea52ecfdcef1283854888066ada2c60f40e94dbb951753945f050bd7a567ce0a",
+      "bytes": 3101
+    },
+    {
+      "path": "V2_Basic/scripts/metoprolol.txt",
+      "sha256": "94e89e6ba07a6306c941bd1c925c3b0e999888264d28496db2e34b2a8c9f4435",
+      "bytes": 3063
+    },
+    {
+      "path": "V2_Basic/scripts/omeprazole.md",
+      "sha256": "d9f767f18b7a319917f194374bebe2f6a2dd90d81edd6fe1f3979a92e96dbcfa",
+      "bytes": 2790
+    },
+    {
+      "path": "V2_Basic/scripts/omeprazole.txt",
+      "sha256": "2fdfd57a62c2019af8322380e1acf2aef630bf219389906bc9b83bdf25aa79f6",
+      "bytes": 2752
+    },
+    {
+      "path": "V2_Basic/scripts/ondansetron.md",
+      "sha256": "37bf058b2aad5f9301d02539a5634dcf7b200181b17a5787fd3a0002ce7853f7",
+      "bytes": 2886
+    },
+    {
+      "path": "V2_Basic/scripts/ondansetron.txt",
+      "sha256": "d201d7775408248d69cafc39986e41cc2cdcd7cd5df45eb9007ec505bef9233e",
+      "bytes": 2847
+    },
+    {
+      "path": "V2_Basic/scripts/rosuvastatin.md",
+      "sha256": "6086fac64e389aaf45cc3490c38f96d3d1ba09fc0552ab0c7a004177eedfc69d",
+      "bytes": 3115
+    },
+    {
+      "path": "V2_Basic/scripts/rosuvastatin.txt",
+      "sha256": "ffd85b8f13e7deb08648a041d77d041084a006ca2d77f3bb6a4e4363a1e4145f",
+      "bytes": 3075
+    },
+    {
+      "path": "V2_Basic/scripts/sertraline.md",
+      "sha256": "5a2e646f059601ae5972492eea36c304a80abcfec41e4361cb44f7d8fb93fad0",
+      "bytes": 3147
+    },
+    {
+      "path": "V2_Basic/scripts/sertraline.txt",
+      "sha256": "7af5971713ca6be8cb1b15e4b6d33fe944464c60195b7d58671d233c8440baa9",
+      "bytes": 3109
+    },
+    {
+      "path": "V2_Basic/TIMING.md",
+      "sha256": "f1d1fd6c927a7404d3369cb1e1f0ed07e3835c100b6bc0ddd1467dc1bf8b07a7",
+      "bytes": 1072
+    },
+    {
+      "path": "V2_Basic/V2_Basic.md",
+      "sha256": "2af2801d00b71caab18a6f9477668e2d42a92151ec3770fd8b58f033a9774284",
+      "bytes": 55848
+    },
+    {
+      "path": "V2_Medical/.gitattributes",
+      "sha256": "ca41c0dbd2790b53212a7af48078742b3faa84330a1f2f662da7086d8acec361",
+      "bytes": 67
+    },
+    {
+      "path": "V2_Medical/EVIDENCE.md",
+      "sha256": "626c3576fdcbabb0e896ac71f0627ec979b7db8b1952ff861de26ea528e48fe4",
+      "bytes": 2152
+    },
+    {
+      "path": "V2_Medical/manifest.json",
+      "sha256": "2c6e08d374abd56b4441da6a4de106c5fc5164174937f4acecc0cc93b33bf69c",
+      "bytes": 11785
+    },
+    {
+      "path": "V2_Medical/README.md",
+      "sha256": "91f21c439a8bae27a61a544fcf9279e3dc255ae1046c0c7ef7fad1bb96e64442",
+      "bytes": 4006
+    },
+    {
+      "path": "V2_Medical/scripts/adalimumab.md",
+      "sha256": "aa57f57ded14f87e8e6f6e2194d77a7b824b9dd85930bdda078a40d5f7261c0f",
+      "bytes": 4490
+    },
+    {
+      "path": "V2_Medical/scripts/adalimumab.txt",
+      "sha256": "aaa8713b61231920c6875d26302996a958072f117e9b5d80d9e9fb5b8fbbc5d7",
+      "bytes": 4443
+    },
+    {
+      "path": "V2_Medical/scripts/albuterol.md",
+      "sha256": "8b2ffdc55accfe4a3ab680ddd7eb09be5faf96efc652607b6fbe29dfa88eda81",
+      "bytes": 4006
+    },
+    {
+      "path": "V2_Medical/scripts/albuterol.txt",
+      "sha256": "c3543fec17314d28f3ae762975faf017e6456742e2d1643c985edbcc16698e79",
+      "bytes": 3960
+    },
+    {
+      "path": "V2_Medical/scripts/amlodipine.md",
+      "sha256": "74de84a35ecf75a4a73057817c24225c0ee534883d67a6f4509bc6e84ff8e42b",
+      "bytes": 4222
+    },
+    {
+      "path": "V2_Medical/scripts/amlodipine.txt",
+      "sha256": "3ad519adac8e484bab6b517e7608e38d105ad1f0f0a7863085ff8e74f2fc59c2",
+      "bytes": 4175
+    },
+    {
+      "path": "V2_Medical/scripts/apixaban.md",
+      "sha256": "17dcb95756db17577985780aa497884af187437aade397b9a44bde9b4b51274a",
+      "bytes": 4369
+    },
+    {
+      "path": "V2_Medical/scripts/apixaban.txt",
+      "sha256": "7721cbb30fb3b6e1facc11c529218b691fc26987f7e16a0b7615016b990bd775",
+      "bytes": 4324
+    },
+    {
+      "path": "V2_Medical/scripts/atorvastatin.md",
+      "sha256": "8c5831a1e9fe5496dce8222b6c88c0a6655f5437f909f9f65aaf620eea892948",
+      "bytes": 4378
+    },
+    {
+      "path": "V2_Medical/scripts/atorvastatin.txt",
+      "sha256": "b7a398354a22953d3952323b74c22405410859d9d9bd94d533b55fb00bcf4edd",
+      "bytes": 4329
+    },
+    {
+      "path": "V2_Medical/scripts/empagliflozin.md",
+      "sha256": "fc0da5e28bb44b3481e19a8699e3d966125216e1405f35beebad276648eaf425",
+      "bytes": 4498
+    },
+    {
+      "path": "V2_Medical/scripts/empagliflozin.txt",
+      "sha256": "cf9cbaa1939b5dff958ad23c9d84bc7edff956f2b0c6c06df2b23fc310ba2192",
+      "bytes": 4448
+    },
+    {
+      "path": "V2_Medical/scripts/esketamine.md",
+      "sha256": "ff5a343748515cb66ce2fd7064e67d828fc960215013c5b48bbeea83d43b4c4c",
+      "bytes": 4334
+    },
+    {
+      "path": "V2_Medical/scripts/esketamine.txt",
+      "sha256": "8f56d1a83f74bc0addce5dffc70c321d89d3ba7f92ae8ff07c49e92a544c6b39",
+      "bytes": 4287
+    },
+    {
+      "path": "V2_Medical/scripts/ezetimibe.md",
+      "sha256": "d994c50df3a4a11844ae3698e9696745878c6cf216f10ba5186498e4cd115d34",
+      "bytes": 4445
+    },
+    {
+      "path": "V2_Medical/scripts/ezetimibe.txt",
+      "sha256": "18b72e01a8883bb595e7a6186f39ce4ecfa9c140bae293be502b0fea159f0723",
+      "bytes": 4399
+    },
+    {
+      "path": "V2_Medical/scripts/famotidine.md",
+      "sha256": "11c80cac8e1e18181b8b29f693629c43c90b76fc084e3bd1d051826ede1f6b59",
+      "bytes": 4123
+    },
+    {
+      "path": "V2_Medical/scripts/famotidine.txt",
+      "sha256": "85f0fb8a8ea3eb7e85b1f3f8d88418a56003ac67668f4e1db7cd9c534e977330",
+      "bytes": 4076
+    },
+    {
+      "path": "V2_Medical/scripts/ibuprofen.md",
+      "sha256": "79cd658c78f7ff4acd49f450c2a4162cc461da448242680f217d8c252e79f080",
+      "bytes": 3989
+    },
+    {
+      "path": "V2_Medical/scripts/ibuprofen.txt",
+      "sha256": "2ad84022d0a91069846cb8d167ada5d8067a1245fa3790226d1b9dbc0ca2f1ec",
+      "bytes": 3943
+    },
+    {
+      "path": "V2_Medical/scripts/levothyroxine.md",
+      "sha256": "858a6e8ac3afa7f12c761a31947980de924ca618e3d7c3a0730b83bc948ab5a4",
+      "bytes": 4402
+    },
+    {
+      "path": "V2_Medical/scripts/levothyroxine.txt",
+      "sha256": "17bead6feee2891452ad9d7846b4926a3ceb81d3894812dadafad15873115e1f",
+      "bytes": 4352
+    },
+    {
+      "path": "V2_Medical/scripts/lisinopril.md",
+      "sha256": "067e1ae3970990032b10810f0aed39e7a66b5a739f36b98924d54abb72d549b0",
+      "bytes": 4255
+    },
+    {
+      "path": "V2_Medical/scripts/lisinopril.txt",
+      "sha256": "a82c36f9523703d29c0cd8446fbf15e9a9ec66bc32a183f54d18c170b02fc801",
+      "bytes": 4208
+    },
+    {
+      "path": "V2_Medical/scripts/losartan.md",
+      "sha256": "4d8f9ae0bd7d4f94d1cda40618bf5d2a41d5b26df31667619daef86f228b7c8c",
+      "bytes": 4638
+    },
+    {
+      "path": "V2_Medical/scripts/losartan.txt",
+      "sha256": "959c682d3bd2d1a104d74ccb79f7a8574758ba775ca548fbb3d7ead71eff2c0f",
+      "bytes": 4593
+    },
+    {
+      "path": "V2_Medical/scripts/metformin.md",
+      "sha256": "b94207cb8bd8ec366d42f4cbab924275879830a64d670337c607e52a1edba089",
+      "bytes": 4551
+    },
+    {
+      "path": "V2_Medical/scripts/metformin.txt",
+      "sha256": "daa7f048ed32d704ae1b519f237e6af50e6882ba20d904cd098358e5303131e2",
+      "bytes": 4505
+    },
+    {
+      "path": "V2_Medical/scripts/metoprolol.md",
+      "sha256": "42cf285547b19bca7511c6c558705cae24e9e99e301ab159a887bbc144c6ea78",
+      "bytes": 4569
+    },
+    {
+      "path": "V2_Medical/scripts/metoprolol.txt",
+      "sha256": "87d31ef46813ad70d9aa6f66cdfeafcb4552054c9655c8a723f03d87343905c6",
+      "bytes": 4522
+    },
+    {
+      "path": "V2_Medical/scripts/omeprazole.md",
+      "sha256": "80d1580ff0722f871b9551271e85eea97f6edaa425cde7d9fbea33706aecc875",
+      "bytes": 4167
+    },
+    {
+      "path": "V2_Medical/scripts/omeprazole.txt",
+      "sha256": "27db852622c66bbd441d42226ae3ae2e0ed6c353951dc103e9c6ea419cd47fd1",
+      "bytes": 4120
+    },
+    {
+      "path": "V2_Medical/scripts/ondansetron.md",
+      "sha256": "c4a78925a26c66b8d7a86c00e66c4d87b40bd40db02c276d8e9d33eede462866",
+      "bytes": 4141
+    },
+    {
+      "path": "V2_Medical/scripts/ondansetron.txt",
+      "sha256": "ab2aa564bdafe41f6ce24f7a280a83450be0d6b231698d4095e1d35e91fe6d03",
+      "bytes": 4093
+    },
+    {
+      "path": "V2_Medical/scripts/rosuvastatin.md",
+      "sha256": "d1b4185121b379b1a53a5fb724ece137bf03ddb9410880bd234b9807e22f44e5",
+      "bytes": 4556
+    },
+    {
+      "path": "V2_Medical/scripts/rosuvastatin.txt",
+      "sha256": "7a0a9d759bd1c913d398a28dd3f80dc0575dc764476608a271010c15964ca5a9",
+      "bytes": 4507
+    },
+    {
+      "path": "V2_Medical/scripts/sertraline.md",
+      "sha256": "7066dc787ecca149a1c3ec778d5d5e93f13e8f4531e06731ccb32c1c0beb40f7",
+      "bytes": 4306
+    },
+    {
+      "path": "V2_Medical/scripts/sertraline.txt",
+      "sha256": "65a81abb939005bc4b65eb0dc50086283e04f441d644abe6d8ff12ea5f3f21cd",
+      "bytes": 4259
+    },
+    {
+      "path": "V2_Medical/TIMING.md",
+      "sha256": "f7253e816c31c50e589cd163cdcee9444a27d6b2d3aa5ffa62ac80b74e9a6567",
+      "bytes": 1074
+    },
+    {
+      "path": "V2_Medical/V2_Medical.md",
+      "sha256": "58850e36c84ee34465329aa917dccf53fe513faf86b0346a9860e83036a15838",
+      "bytes": 84158
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# Empagliflozin
+
+Welcome to Mechanism Diligence.
+Let’s talk about empagliflozin, which is the generic name.
+Jardiance is a brand name, and it may be the name you already know.
+
+## What is this drug?
+
+We’re following single-ingredient oral empagliflozin tablets. They treat type two diabetes and improve heart-failure and chronic-kidney-disease outcomes in specified populations. The heart and kidney benefits are not explained by glucose lowering alone.
+
+## What biological problem does it address?
+
+The kidneys filter glucose into tubular fluid, then normally return nearly all of it to blood. In the early proximal tubule, SGLT2 performs much of that recovery. Its name means sodium-glucose cotransporter two. Sodium movement helps drive glucose into the tubular cell.
+
+## How does it reach its target?
+
+After intestinal absorption, the drug circulates to the kidneys. Its target lies on the urine-facing surface of proximal-tubule cells. A separate pump on the blood-facing side maintains the sodium gradient that powers normal glucose recovery.
+
+## What happens at the target?
+
+Empagliflozin binds in SGLT2’s sugar-binding region and outer entrance. It holds the transporter in an outward-facing state, preventing the normal shape changes that move cargo into the cell.
+
+This inhibition is reversible. It does not destroy the kidney cell. Another transporter farther downstream can recover some escaped glucose, but not all. More glucose leaves in urine without the drug having to stimulate insulin secretion.
+
+## How does that action change the system?
+
+Glucose retained in tubular fluid also retains water. This is osmotic diuresis: increased water loss driven by dissolved material.
+
+Changed sodium delivery also activates communication between the tubule and its filter, called tubuloglomerular feedback. This can reduce excessive pressure inside the filtering capillaries. The vessel response varies with clinical circumstances; one fixed constriction pattern does not explain everyone. Changes in fluid balance and blood pressure can also reduce cardiac workload.
+
+## What is established, and what is still uncertain?
+
+Trials show heart and kidney benefits in relevant populations, including people without diabetes. That rules out a glucose-only explanation. Changes in energy use, oxygen demand, and cellular stress may contribute, but their relative importance remains uncertain. A proposed direct cardiac target should not replace the established kidney-transporter mechanism.
+
+## How does the action connect to benefit and harm?
+
+More glucose in urine increases genital-infection risk. Fluid loss can cause volume depletion. Ketoacidosis, dangerous acid accumulation, can occur without markedly elevated glucose. Serious urinary and genital infections also require prompt assessment. An early filtration decline may reflect altered pressure, but unexpected deterioration must not be dismissed as harmless.
+
+## How long does the action last?
+
+Urinary glucose loss and ketoacidosis can persist after the drug is stopped. Plasma half-life does not set a safe recovery deadline or measure the duration of heart and kidney protection.
+
+## What adult dosing does the label describe?
+
+For labeled adult heart and kidney indications, the dose is ten milligrams each morning. For additional glucose control in type two diabetes, it may rise to twenty-five milligrams if ten is tolerated. The higher dose is not the routine heart-failure dose. These are label examples, not personal advice.
+
+## What must not be overlooked?
+
+Do not use it with allergy to empagliflozin or an ingredient. Stop treatment and urgently assess suspected ketoacidosis, regardless of glucose. Withhold at least three days before surgery or prolonged-fasting procedures, if possible; restart only when clinically stable and eating again. Assess kidney function and hydration. Glucose-control use is not recommended in type one diabetes or below an estimated filtration rate of thirty milliliters per minute per one point seven three square meters. Heart and kidney indications have separate eligibility criteria.
+
+## What is the take-home mechanism?
+
+Blocking SGLT2 changes glucose recovery, water loss, and kidney feedback. Clinical benefit is established; its complete physiological explanation remains unfinished.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

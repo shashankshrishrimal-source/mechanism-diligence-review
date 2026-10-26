@@ -1,0 +1,49 @@
+# Sertraline
+
+Welcome to Mechanism Diligence.
+Let’s talk about sertraline, which is the generic name.
+Zoloft is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+This drug treats depression and some other conditions. This film follows tablets for adults with major depression. The illness can affect mood, sleep, thoughts, and daily life.
+
+## How does it get to work?
+
+After the tablet dissolves, blood carries the drug to the brain. There, it acts on a protein that moves a chemical message back into nerve cells. This message is called serotonin.
+
+## How does it work?
+
+Nerve cells release serotonin to send messages. Afterward, a protein called SERT takes some of it back into the cell.
+
+The drug attaches to SERT and slows that return trip. The message stays outside the cell longer. This changes the signals nearby cells receive.
+
+The drug can leave SERT again. It does not destroy it or make more serotonin. Changes in brain signals may help mood over time. Depression is not proven to be just a shortage of serotonin.
+
+## How can it help and cause harm?
+
+These changes can help mood. But the same message works in the gut and affects sex too. Treatment can cause nausea, which means feeling sick. Loose stools and sexual problems can also occur.
+
+The drug also changes how blood cells take up this message. This may raise the risk of bleeding. Too much activity from this signal can cause serotonin syndrome. This reaction can be life-threatening.
+
+## What is still unclear?
+
+We know the drug slows the message’s return into nerve cells. We do not fully know how this first step leads to relief. The brain may adjust over time. No single later step explains every person’s response.
+
+## How long does it work?
+
+Improvement often takes weeks and varies between people. The liver breaks down the drug. The time it stays in blood does not tell us when mood will improve.
+
+## What should we know about doses and risks?
+
+This is not a personal dose guide. Liver problems can change the dose. The label does not recommend use with moderate or severe liver problems. The care team should check for bipolar disorder before use. That illness can include periods of very high mood or energy. Do not stop suddenly; follow a plan to lower the dose.
+
+Do not use it after an allergy to its ingredients. Do not take it with pimozide or drugs called MAO inhibitors. These include linezolid and methylene blue given into a vein. Switching between this drug and an MAO inhibitor for depression needs a gap. The gap must be at least fourteen days.
+
+The strongest label warning concerns increased suicidal thoughts and actions. This risk is higher in children and young adults. The care team must watch everyone for mood changes. New thoughts of suicide need urgent help.
+
+## What is the main idea?
+
+This drug changes how nerve cells handle a message. This can help mood, but the full reason for the benefit is still unclear.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

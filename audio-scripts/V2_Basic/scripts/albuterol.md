@@ -1,0 +1,49 @@
+# Albuterol
+
+Welcome to Mechanism Diligence.
+Let’s talk about albuterol, which is the generic name.
+Ventolin is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Albuterol can help open narrowed airways in the lungs. This film follows the Ventolin HFA inhaler used by adults. The medicine is breathed in through the mouth.
+
+## How does it get to work?
+
+The mist reaches the airways, where the drug dissolves. It can act there without first going through the stomach. Some also enters blood. How the inhaler is used affects how much reaches the lungs.
+
+## How does it work?
+
+Bands of muscle wrap around the airways. When they tighten, less air can pass through.
+
+Albuterol attaches to proteins on the muscle cells. These proteins are called beta-two receptors. They receive a signal from the drug and pass it inside the cell.
+
+That signal starts a chain of changes. The changes reduce the muscle’s pull. The muscle relaxes, and the airway widens.
+
+The drug does not push the airway open. It sends the signal that lets tight muscle relax. Swelling and mucus can still block airflow.
+
+## How can it help and cause harm?
+
+Wider airways can make breathing easier. But similar receptors exist outside the lungs. Effects there can cause shaking or a fast, pounding heartbeat. Blood levels of potassium, a needed mineral, can fall too.
+
+Albuterol does not replace medicines that control the swelling inside airways.
+
+## What is still unclear?
+
+We know the main signal that helps the muscle relax. We do not know how much each later step matters in each person. The receptors can also become less responsive. Worsening breathing still needs a medical check.
+
+## How long does it work?
+
+It can start working within minutes and help for several hours. The time varies. The body breaks down and removes the drug, much of it through urine. Time in blood does not guarantee the same time of relief.
+
+## What should we know about doses and risks?
+
+This is not a personal dose plan. Use the exact inhaler directions from the care team. Do not take extra puffs beyond those directions.
+
+Do not use it after an allergy to any ingredient. If breathing gets worse right after a puff, stop using it and get urgent medical help. Needing it more often than usual needs prompt review. Too much can be fatal.
+
+## What is the main idea?
+
+Albuterol sends a signal that relaxes tight airway muscle. It helps one cause of blocked airflow, while other causes may need other treatment.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

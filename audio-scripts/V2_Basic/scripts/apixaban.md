@@ -1,0 +1,53 @@
+# Apixaban
+
+Welcome to Mechanism Diligence.
+Let’s talk about apixaban, which is the generic name.
+Eliquis is a brand name, and it may be the name you already know.
+
+## What is this medicine?
+
+Apixaban helps prevent certain harmful blood clots. We’re following oral tablets for adults with a type of uneven heartbeat called nonvalvular atrial fibrillation. It lowers the risk of a clot causing a stroke. It does not fix the heartbeat.
+
+## How does it get to work?
+
+The drug passes from the gut into the blood. It is already active. It meets its target in blood, outside cells. That target is a protein called factor ten-A. Proteins are small working parts of the body.
+
+## How does it work?
+
+Blood needs to clot to seal wounds. A series of steps makes a strong mesh called fibrin. This mesh helps hold a clot together.
+
+Factor ten-A helps make another protein, called thrombin. Thrombin then helps make fibrin.
+
+Apixaban binds to the working part of factor ten-A. It slows the step that makes thrombin. Less thrombin means less fibrin. New clots are less likely to form, and clots are less able to grow.
+
+The drug can let go again. It does not destroy its target. It also does not cut up or directly dissolve an old clot. The body has a separate system to break clots down.
+
+## How can it help and cause harm?
+
+An uneven heartbeat can let blood pool inside the heart. A clot can form there and travel to the brain. Slowing clot formation lowers this stroke risk.
+
+But the same action makes it harder to stop bleeding. The drug cannot tell a harmful clot from a needed wound seal. Bleeding can be severe or fatal.
+
+## What is still unclear?
+
+We know how it blocks the clotting step. We cannot use that fact to predict each person’s result. Other possible effects are still under study.
+
+## How long does it work?
+
+The effect can last at least a day after the last dose. The kidneys and other routes help clear the drug. That timing does not tell you when it is safe to stop before surgery.
+
+## What should we know about doses and risks?
+
+The dose for these tablets depends on the illness, age, weight, kidney tests, and other drugs. A clinician chooses it. This film does not choose your dose.
+
+Do not use it with ongoing abnormal bleeding or a severe allergy to it.
+
+Stopping too soon raises clot risk. Do not stop without a clinician’s plan. Bleeding around a spinal injection or procedure can cause permanent loss of movement. Tell the team you take apixaban.
+
+Other drugs can change bleeding risk or how well it works. A routine blood test called I-N-R cannot reliably show its effect.
+
+## What is the main idea?
+
+Apixaban slows a step that makes clots. That can prevent harm from clots, but also makes bleeding harder to stop.
+
+This video is for educational purposes only. It is not personal medical advice, and clinical review is pending. For the sources, references, and to leave feedback, go to mechanismdiligence.com.

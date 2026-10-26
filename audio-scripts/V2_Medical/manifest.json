@@ -1,0 +1,400 @@
+{
+  "package": "V2_Medical",
+  "display_name": "Medical",
+  "date": "2026-10-25",
+  "script_count": 19,
+  "derived_from": "V2_Scientific",
+  "scientific_source_commit": "3bde10c5158f5d39553e19f14adc6f05c431af21",
+  "clinical_review_status": "pending",
+  "note": "Checksums identify files, not clinical validity. Manifest excludes itself. Shared sources and language checks are in the parent directory.",
+  "scripts": [
+    {
+      "drug": "Ibuprofen",
+      "key": "ibuprofen",
+      "level": "Medical",
+      "spoken_words_including_questions": 585,
+      "body_words": 459,
+      "questions": 11,
+      "estimated_time_with_pauses": "4.9–5.6 minutes"
+    },
+    {
+      "drug": "Lisinopril",
+      "key": "lisinopril",
+      "level": "Medical",
+      "spoken_words_including_questions": 589,
+      "body_words": 464,
+      "questions": 11,
+      "estimated_time_with_pauses": "4.9–5.6 minutes"
+    },
+    {
+      "drug": "Atorvastatin",
+      "key": "atorvastatin",
+      "level": "Medical",
+      "spoken_words_including_questions": 611,
+      "body_words": 486,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.1–5.9 minutes"
+    },
+    {
+      "drug": "Omeprazole",
+      "key": "omeprazole",
+      "level": "Medical",
+      "spoken_words_including_questions": 598,
+      "body_words": 473,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.0–5.7 minutes"
+    },
+    {
+      "drug": "Albuterol",
+      "key": "albuterol",
+      "level": "Medical",
+      "spoken_words_including_questions": 579,
+      "body_words": 454,
+      "questions": 11,
+      "estimated_time_with_pauses": "4.8–5.5 minutes"
+    },
+    {
+      "drug": "Amlodipine",
+      "key": "amlodipine",
+      "level": "Medical",
+      "spoken_words_including_questions": 599,
+      "body_words": 474,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.0–5.7 minutes"
+    },
+    {
+      "drug": "Apixaban",
+      "key": "apixaban",
+      "level": "Medical",
+      "spoken_words_including_questions": 624,
+      "body_words": 499,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.2–6.0 minutes"
+    },
+    {
+      "drug": "Empagliflozin",
+      "key": "empagliflozin",
+      "level": "Medical",
+      "spoken_words_including_questions": 644,
+      "body_words": 519,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.4–6.2 minutes"
+    },
+    {
+      "drug": "Ezetimibe",
+      "key": "ezetimibe",
+      "level": "Medical",
+      "spoken_words_including_questions": 646,
+      "body_words": 521,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.4–6.2 minutes"
+    },
+    {
+      "drug": "Famotidine",
+      "key": "famotidine",
+      "level": "Medical",
+      "spoken_words_including_questions": 578,
+      "body_words": 453,
+      "questions": 11,
+      "estimated_time_with_pauses": "4.8–5.5 minutes"
+    },
+    {
+      "drug": "Levothyroxine",
+      "key": "levothyroxine",
+      "level": "Medical",
+      "spoken_words_including_questions": 637,
+      "body_words": 512,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.3–6.1 minutes"
+    },
+    {
+      "drug": "Losartan",
+      "key": "losartan",
+      "level": "Medical",
+      "spoken_words_including_questions": 640,
+      "body_words": 515,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.3–6.1 minutes"
+    },
+    {
+      "drug": "Metformin",
+      "key": "metformin",
+      "level": "Medical",
+      "spoken_words_including_questions": 637,
+      "body_words": 512,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.3–6.1 minutes"
+    },
+    {
+      "drug": "Metoprolol",
+      "key": "metoprolol",
+      "level": "Medical",
+      "spoken_words_including_questions": 634,
+      "body_words": 509,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.3–6.1 minutes"
+    },
+    {
+      "drug": "Ondansetron",
+      "key": "ondansetron",
+      "level": "Medical",
+      "spoken_words_including_questions": 582,
+      "body_words": 457,
+      "questions": 11,
+      "estimated_time_with_pauses": "4.8–5.6 minutes"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "key": "rosuvastatin",
+      "level": "Medical",
+      "spoken_words_including_questions": 651,
+      "body_words": 526,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.4–6.2 minutes"
+    },
+    {
+      "drug": "Sertraline",
+      "key": "sertraline",
+      "level": "Medical",
+      "spoken_words_including_questions": 608,
+      "body_words": 483,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.1–5.8 minutes"
+    },
+    {
+      "drug": "Adalimumab",
+      "key": "adalimumab",
+      "level": "Medical",
+      "spoken_words_including_questions": 642,
+      "body_words": 517,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.3–6.2 minutes"
+    },
+    {
+      "drug": "Esketamine",
+      "key": "esketamine",
+      "level": "Medical",
+      "spoken_words_including_questions": 607,
+      "body_words": 482,
+      "questions": 11,
+      "estimated_time_with_pauses": "5.0–5.8 minutes"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "ca41c0dbd2790b53212a7af48078742b3faa84330a1f2f662da7086d8acec361",
+      "bytes": 67
+    },
+    {
+      "path": "EVIDENCE.md",
+      "sha256": "626c3576fdcbabb0e896ac71f0627ec979b7db8b1952ff861de26ea528e48fe4",
+      "bytes": 2152
+    },
+    {
+      "path": "README.md",
+      "sha256": "91f21c439a8bae27a61a544fcf9279e3dc255ae1046c0c7ef7fad1bb96e64442",
+      "bytes": 4006
+    },
+    {
+      "path": "TIMING.md",
+      "sha256": "f7253e816c31c50e589cd163cdcee9444a27d6b2d3aa5ffa62ac80b74e9a6567",
+      "bytes": 1074
+    },
+    {
+      "path": "V2_Medical.md",
+      "sha256": "58850e36c84ee34465329aa917dccf53fe513faf86b0346a9860e83036a15838",
+      "bytes": 84158
+    },
+    {
+      "path": "scripts/adalimumab.md",
+      "sha256": "aa57f57ded14f87e8e6f6e2194d77a7b824b9dd85930bdda078a40d5f7261c0f",
+      "bytes": 4490
+    },
+    {
+      "path": "scripts/adalimumab.txt",
+      "sha256": "aaa8713b61231920c6875d26302996a958072f117e9b5d80d9e9fb5b8fbbc5d7",
+      "bytes": 4443
+    },
+    {
+      "path": "scripts/albuterol.md",
+      "sha256": "8b2ffdc55accfe4a3ab680ddd7eb09be5faf96efc652607b6fbe29dfa88eda81",
+      "bytes": 4006
+    },
+    {
+      "path": "scripts/albuterol.txt",
+      "sha256": "c3543fec17314d28f3ae762975faf017e6456742e2d1643c985edbcc16698e79",
+      "bytes": 3960
+    },
+    {
+      "path": "scripts/amlodipine.md",
+      "sha256": "74de84a35ecf75a4a73057817c24225c0ee534883d67a6f4509bc6e84ff8e42b",
+      "bytes": 4222
+    },
+    {
+      "path": "scripts/amlodipine.txt",
+      "sha256": "3ad519adac8e484bab6b517e7608e38d105ad1f0f0a7863085ff8e74f2fc59c2",
+      "bytes": 4175
+    },
+    {
+      "path": "scripts/apixaban.md",
+      "sha256": "17dcb95756db17577985780aa497884af187437aade397b9a44bde9b4b51274a",
+      "bytes": 4369
+    },
+    {
+      "path": "scripts/apixaban.txt",
+      "sha256": "7721cbb30fb3b6e1facc11c529218b691fc26987f7e16a0b7615016b990bd775",
+      "bytes": 4324
+    },
+    {
+      "path": "scripts/atorvastatin.md",
+      "sha256": "8c5831a1e9fe5496dce8222b6c88c0a6655f5437f909f9f65aaf620eea892948",
+      "bytes": 4378
+    },
+    {
+      "path": "scripts/atorvastatin.txt",
+      "sha256": "b7a398354a22953d3952323b74c22405410859d9d9bd94d533b55fb00bcf4edd",
+      "bytes": 4329
+    },
+    {
+      "path": "scripts/empagliflozin.md",
+      "sha256": "fc0da5e28bb44b3481e19a8699e3d966125216e1405f35beebad276648eaf425",
+      "bytes": 4498
+    },
+    {
+      "path": "scripts/empagliflozin.txt",
+      "sha256": "cf9cbaa1939b5dff958ad23c9d84bc7edff956f2b0c6c06df2b23fc310ba2192",
+      "bytes": 4448
+    },
+    {
+      "path": "scripts/esketamine.md",
+      "sha256": "ff5a343748515cb66ce2fd7064e67d828fc960215013c5b48bbeea83d43b4c4c",
+      "bytes": 4334
+    },
+    {
+      "path": "scripts/esketamine.txt",
+      "sha256": "8f56d1a83f74bc0addce5dffc70c321d89d3ba7f92ae8ff07c49e92a544c6b39",
+      "bytes": 4287
+    },
+    {
+      "path": "scripts/ezetimibe.md",
+      "sha256": "d994c50df3a4a11844ae3698e9696745878c6cf216f10ba5186498e4cd115d34",
+      "bytes": 4445
+    },
+    {
+      "path": "scripts/ezetimibe.txt",
+      "sha256": "18b72e01a8883bb595e7a6186f39ce4ecfa9c140bae293be502b0fea159f0723",
+      "bytes": 4399
+    },
+    {
+      "path": "scripts/famotidine.md",
+      "sha256": "11c80cac8e1e18181b8b29f693629c43c90b76fc084e3bd1d051826ede1f6b59",
+      "bytes": 4123
+    },
+    {
+      "path": "scripts/famotidine.txt",
+      "sha256": "85f0fb8a8ea3eb7e85b1f3f8d88418a56003ac67668f4e1db7cd9c534e977330",
+      "bytes": 4076
+    },
+    {
+      "path": "scripts/ibuprofen.md",
+      "sha256": "79cd658c78f7ff4acd49f450c2a4162cc461da448242680f217d8c252e79f080",
+      "bytes": 3989
+    },
+    {
+      "path": "scripts/ibuprofen.txt",
+      "sha256": "2ad84022d0a91069846cb8d167ada5d8067a1245fa3790226d1b9dbc0ca2f1ec",
+      "bytes": 3943
+    },
+    {
+      "path": "scripts/levothyroxine.md",
+      "sha256": "858a6e8ac3afa7f12c761a31947980de924ca618e3d7c3a0730b83bc948ab5a4",
+      "bytes": 4402
+    },
+    {
+      "path": "scripts/levothyroxine.txt",
+      "sha256": "17bead6feee2891452ad9d7846b4926a3ceb81d3894812dadafad15873115e1f",
+      "bytes": 4352
+    },
+    {
+      "path": "scripts/lisinopril.md",
+      "sha256": "067e1ae3970990032b10810f0aed39e7a66b5a739f36b98924d54abb72d549b0",
+      "bytes": 4255
+    },
+    {
+      "path": "scripts/lisinopril.txt",
+      "sha256": "a82c36f9523703d29c0cd8446fbf15e9a9ec66bc32a183f54d18c170b02fc801",
+      "bytes": 4208
+    },
+    {
+      "path": "scripts/losartan.md",
+      "sha256": "4d8f9ae0bd7d4f94d1cda40618bf5d2a41d5b26df31667619daef86f228b7c8c",
+      "bytes": 4638
+    },
+    {
+      "path": "scripts/losartan.txt",
+      "sha256": "959c682d3bd2d1a104d74ccb79f7a8574758ba775ca548fbb3d7ead71eff2c0f",
+      "bytes": 4593
+    },
+    {
+      "path": "scripts/metformin.md",
+      "sha256": "b94207cb8bd8ec366d42f4cbab924275879830a64d670337c607e52a1edba089",
+      "bytes": 4551
+    },
+    {
+      "path": "scripts/metformin.txt",
+      "sha256": "daa7f048ed32d704ae1b519f237e6af50e6882ba20d904cd098358e5303131e2",
+      "bytes": 4505
+    },
+    {
+      "path": "scripts/metoprolol.md",
+      "sha256": "42cf285547b19bca7511c6c558705cae24e9e99e301ab159a887bbc144c6ea78",
+      "bytes": 4569
+    },
+    {
+      "path": "scripts/metoprolol.txt",
+      "sha256": "87d31ef46813ad70d9aa6f66cdfeafcb4552054c9655c8a723f03d87343905c6",
+      "bytes": 4522
+    },
+    {
+      "path": "scripts/omeprazole.md",
+      "sha256": "80d1580ff0722f871b9551271e85eea97f6edaa425cde7d9fbea33706aecc875",
+      "bytes": 4167
+    },
+    {
+      "path": "scripts/omeprazole.txt",
+      "sha256": "27db852622c66bbd441d42226ae3ae2e0ed6c353951dc103e9c6ea419cd47fd1",
+      "bytes": 4120
+    },
+    {
+      "path": "scripts/ondansetron.md",
+      "sha256": "c4a78925a26c66b8d7a86c00e66c4d87b40bd40db02c276d8e9d33eede462866",
+      "bytes": 4141
+    },
+    {
+      "path": "scripts/ondansetron.txt",
+      "sha256": "ab2aa564bdafe41f6ce24f7a280a83450be0d6b231698d4095e1d35e91fe6d03",
+      "bytes": 4093
+    },
+    {
+      "path": "scripts/rosuvastatin.md",
+      "sha256": "d1b4185121b379b1a53a5fb724ece137bf03ddb9410880bd234b9807e22f44e5",
+      "bytes": 4556
+    },
+    {
+      "path": "scripts/rosuvastatin.txt",
+      "sha256": "7a0a9d759bd1c913d398a28dd3f80dc0575dc764476608a271010c15964ca5a9",
+      "bytes": 4507
+    },
+    {
+      "path": "scripts/sertraline.md",
+      "sha256": "7066dc787ecca149a1c3ec778d5d5e93f13e8f4531e06731ccb32c1c0beb40f7",
+      "bytes": 4306
+    },
+    {
+      "path": "scripts/sertraline.txt",
+      "sha256": "65a81abb939005bc4b65eb0dc50086283e04f441d644abe6d8ff12ea5f3f21cd",
+      "bytes": 4259
+    }
+  ]
+}
